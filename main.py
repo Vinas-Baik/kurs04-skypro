@@ -1,14 +1,9 @@
-# Параметры доступа
-# ID	2942
-# Secret key v3.r.133561358.458aaf582a8dbe18b8cad038cb823741f7e0691a.a799f49596fb6a882aade1f69f46fd2fd5d76707
-
-import requests
 
 from utils.svn_utils import *
 from utils.svn_class import *
 
 COUNT_LOAD_PAGE = 1
-COUNT_VAC_PER_PAGE = 5
+COUNT_VAC_PER_PAGE = 100
 
 
 def main():
@@ -24,7 +19,7 @@ def main():
     for t_vac in (hh, sj):
         t_vac.get_vacancies(COUNT_LOAD_PAGE)
         # t_vac.save_json_file()
-        vacancies_json.extend(t_vac.vacancies)
+        vacancies_json.extend(t_vac.get_formatted_vacancies())
 
     while True:
         print('\n -----= Меню =----- ')
@@ -57,7 +52,7 @@ def main():
                     for t_vac in (hh, sj):
                         t_vac.keyword = temp_word
                         t_vac.get_vacancies(COUNT_LOAD_PAGE)
-                        vacancies_json.extend(t_vac.vacancies)
+                        vacancies_json.extend(t_vac.get_formatted_vacancies())
                 keyword_find = temp_word
 
         elif user_input == '2':

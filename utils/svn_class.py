@@ -9,19 +9,42 @@ API_SJ_KEY = 'v3.r.133561358.458aaf582a8dbe18b8cad038cb823741f7e0691a.a799f49596
 
 class Vacancys(ABC):
 
-    @abstractmethod
-    def get_vacancies(self):
-        pass
+    file_json = ''
+    vacancies = []
+    params = None
+
 
     @abstractmethod
     def get_request(self):
         pass
 
-    def save_json_file(self):
-        pass
-
+    @abstractmethod
     def get_formatted_vacancies(self):
         pass
+
+    def save_json_file(self):
+        with open(full_path_name_file(self.file_json), 'w',
+                  encoding='UTF-8') as file:
+            json.dump(self.vacancies, file, indent=4, ensure_ascii=False)
+        # pass
+
+
+    def get_vacancies(self, pages_count=1):
+        self.vacancies = []
+
+        for page in range(pages_count):
+            page_vac = []
+            self.params['page'] = page
+            print(f'\t -> Обрабатываем данные страницы № {page} с HH.ru: ', end='')
+            try:
+                page_vac = self.get_request()
+            except Exception as t_err:
+                print(t_err)
+            else:
+                self.vacancies.extend(page_vac)
+                print(f'Загружено {len(page_vac)} вакансий')
+            if len(page_vac) == 0:
+                break
 
 
 class Vacancy:
@@ -43,6 +66,7 @@ class Vacancy:
 class HeadHunterAPI(Vacancys):
 
     url = 'https://api.hh.ru/vacancies'
+    file_json = 'data\\vac_hh.json'
 
     def __init__(self, keyword_find, count_vac_per_page=100):
         self.__keyword__ = keyword_find
@@ -54,7 +78,6 @@ class HeadHunterAPI(Vacancys):
         # self.headers = {'User-Agent': 'MyApp/1.0 (svn_wolf@mail.ru)'}
         self.headers = {}
         self.vacancies = []
-        self.file_json = 'data\\vac_hh.json'
 
     def get_request(self):
         response = requests.get(self.url, headers=self.headers, params=self.params)
@@ -73,26 +96,26 @@ class HeadHunterAPI(Vacancys):
         self.__keyword__ = new_key
         self.params['text'] = new_key
 
-    def get_vacancies(self, pages_count=1):
-        self.vacancies = []
+    # def get_vacancies(self, pages_count=1):
+    #     self.vacancies = []
+    #
+    #     for page in range(pages_count):
+    #         page_vac = []
+    #         self.params['page'] = page
+    #         print(f'\t -> Обрабатываем данные страницы № {page} с HH.ru: ', end='')
+    #         try:
+    #             page_vac = self.get_request()
+    #         except Exception as t_err:
+    #             print(t_err)
+    #         else:
+    #             self.vacancies.extend(page_vac)
+    #             print(f'Загружено {len(page_vac)} вакансий')
+    #         if len(page_vac) == 0:
+    #             break
 
-        for page in range(pages_count):
-            page_vac = []
-            self.params['page'] = page
-            print(f'\t -> Обрабатываем данные страницы № {page} с HH.ru: ', end='')
-            try:
-                page_vac = self.get_request()
-            except Exception as t_err:
-                print(t_err)
-            else:
-                self.vacancies.extend(page_vac)
-                print(f'Загружено {len(page_vac)} вакансий')
-            if len(page_vac) == 0:
-                break
-
-    def save_json_file(self):
-        with open(full_path_name_file(self.file_json), 'w', encoding = 'UTF-8') as file:
-            json.dump(self.vacancies, file)
+    # def save_json_file(self):
+    #     with open(full_path_name_file(self.file_json), 'w', encoding='UTF-8') as file:
+    #         json.dump(self.vacancies, file, indent=4, ensure_ascii=False)
 
     def get_formatted_vacancies(self):
         formatted_vacancies = []
@@ -108,7 +131,7 @@ class HeadHunterAPI(Vacancys):
                        'employer': temp_vac['employer']['name'],
                        'api': 'HH',
                        }
-            print(temp_fv)
+            # print(temp_fv)
             formatted_vacancies.append(temp_fv)
         return formatted_vacancies
 
@@ -116,6 +139,7 @@ class HeadHunterAPI(Vacancys):
 class SuperJobAPI(Vacancys):
 
     url = 'https://api.superjob.ru/2.0/vacancies/'
+    file_json = 'data\\vac_sj.json'
 
     def __init__(self, keyword_find, count_vac_per_page=100):
         self.__keyword__ = keyword_find
@@ -126,7 +150,6 @@ class SuperJobAPI(Vacancys):
                        }
         self.headers = {'X-Api-App-id': API_SJ_KEY}
         self.vacancies = []
-        self.file_json = 'data\\vac_sj.json'
 
     @property
     def keyword(self):
@@ -146,41 +169,42 @@ class SuperJobAPI(Vacancys):
         # response.close()
         return response.json()['objects']
 
-    def get_vacancies(self, pages_count=1):
-        self.vacancies = []
+    # def get_vacancies(self, pages_count=1):
+    #     self.vacancies = []
+    #
+    #     for t_page in range(pages_count):
+    #         page_vac = []
+    #         self.params['page'] = t_page
+    #         print(f'\t -> Обрабатываем данные страницы № {t_page} с SuperJob.ru: ', end='')
+    #         try:
+    #             page_vac = self.get_request()
+    #         except Exception as t_err:
+    #             print(t_err)
+    #         else:
+    #             self.vacancies.extend(page_vac)
+    #             print(f'Загружено {len(page_vac)} вакансий')
+    #         if len(page_vac) == 0:
+    #             break
 
-        for page in range(pages_count):
-            page_vac = []
-            self.params['page'] = page
-            print(f'\t -> Обрабатываем данные страницы № {page} с SuperJob.ru: ', end='')
-            try:
-                page_vac = self.get_request()
-            except Exception as t_err:
-                print(t_err)
-            else:
-                self.vacancies.extend(page_vac)
-                print(f'Загружено {len(page_vac)} вакансий')
-            if len(page_vac) == 0:
-                break
-
-    def save_json_file(self):
-        with open(full_path_name_file(self.file_json), 'w') as file:
-            json.dump(self.vacancies, file)
+    # def save_json_file(self):
+    #     with open(full_path_name_file(self.file_json), 'w', encoding='UTF-8') as file:
+    #         json.dump(self.vacancies, file, indent=4, ensure_ascii=False)
 
     def get_formatted_vacancies(self):
         formatted_vacancies = []
+
         for temp_vac in self.vacancies:
             temp_fv = {'name': temp_vac['profession'],
-                       'area_name': temp_vac['client']['town']['title'],
+                       'area_name': temp_vac['town']['title'],
                        'url': temp_vac['link'],
                        'salary_from': temp_vac['payment_from'] if temp_vac['payment_from'] != None else 0,
                        'salary_to': temp_vac['payment_to'] if temp_vac['payment_to'] != None else 0,
-                       'salary_cur': temp_vac['currency'],
-                       'requirement': temp_vac['snippet']['requirement'],
-                       'responsibility': temp_vac['snippet']['responsibility'],
+                       'salary_cur': 'RUR' if temp_vac['currency'].lower() == 'rub' else None,
+                       'requirement': temp_vac['candidat'],
+                       'responsibility': temp_vac['candidat'],
                        'employer': temp_vac['client']['title'],
                        'api': 'SuperJob',
                        }
-            print(temp_fv)
+            # print(temp_fv)
             formatted_vacancies.append(temp_fv)
         return formatted_vacancies
