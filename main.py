@@ -10,6 +10,7 @@ from utils.svn_class import *
 COUNT_LOAD_PAGE = 1
 COUNT_VAC_PER_PAGE = 5
 
+
 def main():
     keyword_find = 'python'
 
@@ -72,10 +73,6 @@ def main():
         elif user_input == '4':
             # print(user_input)
             pass
-
-
-
-
 
 
 if __name__ == '__main__':

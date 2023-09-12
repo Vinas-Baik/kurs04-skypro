@@ -108,6 +108,7 @@ class HeadHunterAPI(Vacancys):
                        'employer': temp_vac['employer']['name'],
                        'api': 'HH',
                        }
+            print(temp_fv)
             formatted_vacancies.append(temp_fv)
         return formatted_vacancies
 
@@ -180,5 +181,6 @@ class SuperJobAPI(Vacancys):
                        'employer': temp_vac['client']['title'],
                        'api': 'SuperJob',
                        }
+            print(temp_fv)
             formatted_vacancies.append(temp_fv)
         return formatted_vacancies
