@@ -6,10 +6,13 @@ import csv
 
 from utils.svn_utils import full_path_name_file
 
+# апи ключ для подключения к superjob.ru
 API_SJ_KEY = 'v3.r.133561358.458aaf582a8dbe18b8cad038cb823741f7e0691a.a799f49596fb6a882aade1f69f46fd2fd5d76707'
 
 class Vacancys(ABC):
-
+    """
+    Класс с абстрактными методами get_request и get_formatted_vacancies
+    """
     @abstractmethod
     def get_request(self):
         pass
@@ -20,12 +23,23 @@ class Vacancys(ABC):
 
 class Work_Vacancy():
 
-    def __init__(self, keyword:str):
+    """
+    Общий класс для заполения вакансиями
+    """
+
+    def __init__(self, keyword: str, file_name=None):
+        """
+        Магический метод инициализации класса
+        """
         self.__keyword__ = keyword
         self.vacancies = []
-        self.file_json = ''
-        self.file_csv = ''
-        self.file_txt = ''
+        if file_name != None:
+            t_name = file_name
+        else:
+            t_name = keyword
+        self.file_json = f'data\\{t_name}.json'
+        self.file_csv = f'data\\{t_name}.csv'
+        self.file_txt = f'data\\{t_name}.txt'
         self.params = None
         self.url_api = ''
 
@@ -40,6 +54,10 @@ class Work_Vacancy():
 
 
     def save_json_file(self):
+        """
+        метод класса для записи в файл json, прописанный в переменной класса file_json
+        :return:
+        """
         with open(full_path_name_file(self.file_json), 'w',
                   encoding='UTF-8') as file:
             json.dump(self.vacancies, file, indent=4, ensure_ascii=False)
@@ -49,6 +67,11 @@ class Work_Vacancy():
         pass
 
     def get_vacancies(self, pages_count=1):
+        """
+        Получение вакнсий с определенных API
+        :param pages_count:
+        :return:
+        """
         self.vacancies = []
 
         for page in range(pages_count):
@@ -65,9 +88,16 @@ class Work_Vacancy():
             if len(page_vac) == 0:
                 break
 
-    def save_csv_file(self):
+    def save_csv_file(self, file_name, is_csv=True):
+        """
+        Запись ф файл csv и txt
+        :param file_name: имя файла
+        :param is_csv: если True - то пишем в csv, если False - то пишем в txt
+        :return:
+        """
 
         csv_col = []
+        t_csv_vac = {}
 
         def get_col_key(key, value:dict):
             for k, v in value.items():
@@ -76,59 +106,91 @@ class Work_Vacancy():
                 else:
                     get_col_key(key + '|' + k, v)
 
+        def set_key_vac(key, value:dict):
+            for k, v in value.items():
+                if not isinstance(v, dict):
+                    t_csv_vac[key + '|' + k] = v
+                else:
+                    set_key_vac(key + '|' + k, v)
+
 
         if self.vacancies == None:
             return
 
+        if is_csv:
+
+            # собираем список колонок для записей в csv
+
+            csv_col = []
+
+            for key, value in self.vacancies[0].items():
+                if not isinstance(value, dict):
+                    csv_col.append(key)
+                else:
+                    get_col_key(key, value)
+
+
+
+        # собираем список вакансий
         csv_vacancies = []
 
+        for t_vac in self.vacancies:
+            t_csv_vac = {}
+            for key, value in t_vac.items():
+                if not isinstance(value, dict):
+                    t_csv_vac[key] = value
+                else:
+                    set_key_vac(key, value)
+            csv_vacancies.append(t_csv_vac)
 
-        for key, value in self.vacancies[0].items():
-            if not isinstance(value, dict):
-                csv_col.append(key)
-            else:
-                get_col_key(key, value)
+        # пишем в csv файл
 
-        print(csv_col)
+        if is_csv:
 
-        # for t_vac in self.vacancies:
-        #
-        #     for key, value in self.vacancies[0].items():
-        #         if not isinstance(value, dict):
-        #         new_data[key] = value
-        #     else:
-        #         for k, v in value.items():
-        #             new_data[key + "_" + k] = v
-        #
-        # # for t_key in self.vacancies.keys():
-        # #     cols.append(t_key)
-        #
-        # with open(full_path_name_file(self.file_csv), 'w',
-        #           encoding='UTF-8') as file:
-        #     wr = csv.DictWriter(file, fieldnames=new_data)
-        #     wr.writeheader()
-        #     wr.writerows(self.vacancies)
 
-        # cols = ['Name', 'Age', 'Gender']
-        # data = [{'Name': 'John', 'Age': '20', 'Gender': 'Male'},
-        #         {'Name': 'James', 'Age': '28', 'Gender': 'Male'},
-        #         {'Name': 'Cardi', 'Age': '25', 'Gender': 'Female'}]
-        # # path = "C:/Users/HP/OneDrive/Desktop/DEMO.csv"
-        # with open(path, 'w') as f:
+            # пишем в файл
+
+            with open(full_path_name_file(file_name), 'w',
+                      encoding='UTF-8') as file:
+                wr = csv.DictWriter(file, delimiter=";", fieldnames=csv_col)
+                wr.writeheader()
+                wr.writerows(csv_vacancies)
+
+        else:
+
+            # пишем в файл
+
+            with open(full_path_name_file(file_name), 'w',
+                      encoding='UTF-8') as file:
+                for t_csv_vac in csv_vacancies:
+                    file.write('----------\n')  # разделитель записей
+                    for k_csv, v_csv in t_csv_vac.items():
+                        file.write(f'{k_csv}: {v_csv}\n')
+
+
 
 class Formatted_Vacancies(Work_Vacancy):
 
-    def __init__(self, keyword:str):
-        self.file_json = f'data\\{keyword}.json'
-        self.file_csv = f'data\\{keyword}.csv'
-        self.file_txt = f'data\\{keyword}.txt'
+    """
+    Класс для отформатированых вакансий
+    """
+
+    def __init__(self, keyword: str):
+        super().__init__(self, keyword)
+        self.vacancies = []
+
+    def __add__(self, other: Work_Vacancy):
+        self.vacancies.extend(other.vacancies)
 
 
 class Vacancy():
 
-    def __init__(self, name, url, salary, requirements):
-        """
+    """
+    класс одной вакансии
+    """
 
+    def __init__(self, name, url, salary, requirements, town, area_name, responsibility, employer):
+        """
         :param name: имя вакансии
         :param url: ссылка на выкансию
         :param salary: зарплата
@@ -136,17 +198,22 @@ class Vacancy():
         """
         self.name = name
         self.url = url
-        self.salary = salary
         self.requirements = requirements
+        self.town = town
+        self.area_name = area_name
+        self.responsibility = responsibility
+        self.employer = employer
+
+
+
 
 
 class HeadHunterAPI(Vacancys, Work_Vacancy):
 
     url = 'https://api.hh.ru/vacancies'
-    file_json = 'data\\vac_hh.json'
 
     def __init__(self, keyword, count_vac_per_page=100):
-        super().__init__(keyword)
+        super().__init__(keyword, 'vac_hh')
         self.params = {'text': self.__keyword__,
                        'page': None,
                        'per_page': count_vac_per_page,
@@ -155,6 +222,7 @@ class HeadHunterAPI(Vacancys, Work_Vacancy):
         # self.headers = {'User-Agent': 'MyApp/1.0 (svn_wolf@mail.ru)'}
         self.headers = {}
         self.url_api = 'HH.ru'
+
         # self.vacancies = []
 
     def get_request(self):
@@ -187,10 +255,9 @@ class HeadHunterAPI(Vacancys, Work_Vacancy):
 class SuperJobAPI(Vacancys, Work_Vacancy):
 
     url = 'https://api.superjob.ru/2.0/vacancies/'
-    file_json = 'data\\vac_sj.json'
 
     def __init__(self, keyword, count_vac_per_page=100):
-        super().__init__(keyword)
+        super().__init__(keyword, 'vac_sj')
         self.params = {'count': count_vac_per_page,
                        'keyword': self.__keyword__,
                        'page': None,
