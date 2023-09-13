@@ -3,7 +3,7 @@ from utils.svn_utils import *
 from utils.svn_class import *
 
 COUNT_LOAD_PAGE = 1
-COUNT_VAC_PER_PAGE = 100
+COUNT_VAC_PER_PAGE = 2
 
 
 def main():
@@ -18,15 +18,16 @@ def main():
     vacancies_json = []
     for t_vac in (hh, sj):
         t_vac.get_vacancies(COUNT_LOAD_PAGE)
-        # t_vac.save_json_file()
         vacancies_json.extend(t_vac.get_formatted_vacancies())
+
+    sj.save_csv_file()
 
     while True:
         print('\n -----= Меню =----- ')
         print(f'Количество загруженных вакансий: {len(vacancies_json)}\n')
         print(f'\t-> [1] - указать новое слово для поиска вакансий '
               f'(текущее слово для поиска: {keyword_find})')
-        print('\t-> [2] - записать вакансии в файл')
+        print('\t-> [2] - записать вакансии в файл JSON')
         print('\t-> [3] - вывести список вакансий')
         print('\t-> [4] - отсортировать по минимальной зарплате')
 
@@ -51,7 +52,7 @@ def main():
                     vacancies_json = []
                     for t_vac in (hh, sj):
                         t_vac.keyword = temp_word
-                        t_vac.get_vacancies(COUNT_LOAD_PAGE)
+                        t_vac.get_vacancies(t_vac.get_request(), COUNT_LOAD_PAGE)
                         vacancies_json.extend(t_vac.get_formatted_vacancies())
                 keyword_find = temp_word
 
