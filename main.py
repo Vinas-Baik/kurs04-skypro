@@ -2,10 +2,12 @@
 from utils.svn_utils import *
 from utils.svn_class import *
 
-COUNT_LOAD_PAGE = 1
-COUNT_VAC_PER_PAGE = 5
+COUNT_LOAD_PAGE = 5
+COUNT_VAC_PER_PAGE = 100
 
 def main():
+    get_exchange_rates()
+
     keyword_find = 'python'
 
     print(f'-> Установлено слово для поиска вакансий: '
