@@ -1,0 +1,3115 @@
+----------
+name: JAVA-разработчик (стажер)
+area_name: Ростов-на-Дону
+url: https://hh.ru/vacancy/86539902
+salary_from: None
+salary_to: 50000
+salary_cur: RUR
+requirement: Самый заботливый HR-отдел.
+responsibility: Активное участие в различных ивентах: хакатоны, митапы. Спикерам от банка - лучший мерч.
+employer: Центр-инвест, коммерческий банк
+api: HH
+----------
+name: Начинающий (Junior) Программист
+area_name: Москва
+url: https://hh.ru/vacancy/86654651
+salary_from: 35000
+salary_to: 35000
+salary_cur: RUR
+requirement: Базовые знания одного из языков программирования. Приветствуются знания С++, <highlighttext>Java</highlighttext>, QT, С#, SQL. Желание обучаться. Знание алгоритмов и структур данных.
+responsibility: Разработка и сопровождение специализированных WMS систем для предприятий. Участие в обследовании объектов, разработке ТЗ. Разработка приложений на Windows CE, Android. 
+employer: Ай-Технолоджис Групп
+api: HH
+----------
+name: Разработчик Java (Junior)
+area_name: Москва
+url: https://hh.ru/vacancy/86689585
+salary_from: 0
+salary_to: 0
+salary_cur: RUR
+requirement: Базовые знания <highlighttext>Java</highlighttext> 11+ (core). Опыт работы со Spring Framework. Знание средств коллективной разработки и сборки проектов (Git, Maven...
+responsibility: Разрабатывать и поддерживать приложения на <highlighttext>Java</highlighttext>. Автоматизировать процессы с использованием Camunda. Участвовать в написании unit-тестов. Участвовать в оптимизации приложения.
+employer: Лига Цифровой Экономики
+api: HH
+----------
+name: Junior Java разработчик
+area_name: Москва
+url: https://hh.ru/vacancy/86735437
+salary_from: 0
+salary_to: 0
+salary_cur: RUR
+requirement: Уверенные знания <highlighttext>Java</highlighttext> 17, шаблонов программирования. Spring Framework (Core, Data). Опыт работы с XML/XSD. Опыт работы с СУБД Oracle...
+responsibility: Развитие платформы принятия решений. Написание кода сервисов. Контроль качества кода (код ревью, покрытие тестами, устранение тех. долга). Участие в проработке...
+employer: ОТП Банк, АО (OTP bank)
+api: HH
+----------
+name: Java Junior (2018)
+area_name: Минск
+url: https://hh.ru/vacancy/86720487
+salary_from: 0
+salary_to: 0
+salary_cur: RUR
+requirement: ...внедрения систем с использованием <highlighttext>Java</highlighttext> от 1 года. Опыт работы со всеми перечисленными технологиями по направлению <highlighttext>Java</highlighttext>: Spring (Core, Web...
+responsibility: 
+employer: Bell Integrator
+api: HH
+----------
+name: Junior Java-разработчик
+area_name: Волгоград
+url: https://hh.ru/vacancy/86571374
+salary_from: 50000
+salary_to: None
+salary_cur: RUR
+requirement: Понимание работы web-приложений. Наличие опыта работы с реляционными СУБД. Знания <highlighttext>Java</highlighttext> Core (Collections, Concurrency). Навыки работы с Spring Framework...
+responsibility: Сопровождение существующих систем. Разработка новых модулей.
+employer: Аксиоматика
+api: HH
+----------
+name: Программист
+area_name: Алматы
+url: https://hh.ru/vacancy/86696527
+salary_from: 0
+salary_to: 0
+salary_cur: RUR
+requirement: Навыки работы с с пакетом программ MS Office (Excel, Word, Outlook) и Bitrix. - Навыки программирования (Postgre Sql и <highlighttext>Java</highlighttext>). - 
+responsibility: Обработка заявок, поддержка учетных записей в системе Jira Confluence. - Мониторинг системы сервера. - Работа с запросами для заявок вида отображения поиска...
+employer: Аврора Холдинг
+api: HH
+----------
+name: Junior Java разработчик
+area_name: Санкт-Петербург
+url: https://hh.ru/vacancy/86731264
+salary_from: 50000
+salary_to: None
+salary_cur: RUR
+requirement: Профильное высшее образование (или студенты последний курсов). Хорошее знание HTML/CSS. Язык <highlighttext>Java</highlighttext> на хорошем уровне (понимание принципов ООП, параллельного...
+responsibility: Поддержка и доработка существующих приложений на <highlighttext>Java</highlighttext>. Участие в проектировании архитектуры систем и баз данных. Участие в разработке новых продуктов. 
+employer: Когорта-М
+api: HH
+----------
+name: Team Lead QA
+area_name: Москва
+url: https://hh.ru/vacancy/86656103
+salary_from: None
+salary_to: 460000
+salary_cur: RUR
+requirement: Владение инструментами генерации тестовых данных и перехвата состояний тестируемой системы на разных этапах теста. Технологический стек: <highlighttext>Java</highlighttext>, PostgreSQL, Kafka, GIT...
+responsibility: Координация работ тестирования в функциональных командах. Унификация технологического стека тестирования. Построение процессов тестирования микросервисных Backend и FrontEnd систем. Обучение коллектива.
+employer: SberTech
+api: HH
+----------
+name: Junior Java Developer
+area_name: Омск
+url: https://hh.ru/vacancy/86435502
+salary_from: 0
+salary_to: 0
+salary_cur: RUR
+requirement: Опыт прохождения стажировок/школ/курсов в ИТ- компаниях или онлайн по направлению <highlighttext>Java</highlighttext>. Опыт работы с <highlighttext>Java</highlighttext>. Опыт работы с...
+responsibility: Индивидуальный подход и планы развития, исходя из интересов сотрудника и целей компании.
+employer: Прайм Аспект
+api: HH
+----------
+name: Программист Java
+area_name: Москва
+url: https://hh.ru/vacancy/86724367
+salary_from: 0
+salary_to: 0
+salary_cur: RUR
+requirement: Опыт разработки на <highlighttext>Java</highlighttext> от 2 лет. Знание языков программирования и технологий: <highlighttext>Java</highlighttext>, PL/SQL, Hibernate. Опыт работа с СУБД...
+responsibility: Участие в работе проектных групп. Выполнение работы по проектированию и разработке АС. Выполнение работы по проектированию отдельных сервисов. 
+employer: Sputnik
+api: HH
+----------
+name: Java-разработчик (Стажер)
+area_name: Москва
+url: https://hh.ru/vacancy/86416965
+salary_from: 0
+salary_to: 0
+salary_cur: RUR
+requirement: Уверенное понимание устройства коллекций, лямбда выражений. Практический опыт использования Stream API, Generics, Reflection API. Понимание принципов SOLID, DRY, KISS. 
+responsibility: Возможность принять участие в создании перспективных и масштабных продуктов, нацеленных на улучшение и автоматизацию бизнес-процессов. Https://docs.google.com/document/d...
+employer: Т1 Консалтинг
+api: HH
+----------
+name: Web-программист - стажер
+area_name: Алматы
+url: https://hh.ru/vacancy/85628220
+salary_from: 0
+salary_to: 0
+salary_cur: RUR
+requirement: Основы программирования HTML&CSS. Базовые понимания в javascript. Теорию работы больших систем. Как поменять значения двух переменных не используя третью...
+responsibility: Разрабатывать фронтенд веб приложений на ReactJs, React Native и VueJs. Понимать, как устроен RESTfull API, его правильное проектирование и разработка. 
+employer: Autodata
+api: HH
+----------
+name: Стажер-тестировщик
+area_name: Казань
+url: https://hh.ru/vacancy/86397259
+salary_from: 0
+salary_to: 0
+salary_cur: RUR
+requirement: SoapUI, Postman, Jmeter, DBeaver, MobaXterm, OpenShift, Jira, Kibana. Будет плюсом: Опыт в автоматизации на <highlighttext>Java</highlighttext> (JUnit5).
+responsibility: Стажировка 3 месяца в офисном формате в г. Иннополис, далее работа в гибридном формате (офис в г. Казань, ул. 
+employer: Ак Барс Банк
+api: HH
+----------
+name: DevOps junior
+area_name: Москва
+url: https://hh.ru/vacancy/86640239
+salary_from: 200000
+salary_to: 290000
+salary_cur: RUR
+requirement: Использовали на практике стек ELK. Любите программировать в целом и хорошо знаете <highlighttext>Java</highlighttext> и Groovy в частности (приветствуется знание Ruby...
+responsibility: Предстоит работа с системой, обеспечивающей автоматизацию операций по обслуживанию клиентов - физических лиц в отделениях и на Web-сайте Банка. 
+employer: CORE
+api: HH
+----------
+name: Frontend-разработчик
+area_name: Воронеж
+url: https://hh.ru/vacancy/86685070
+salary_from: 0
+salary_to: 0
+salary_cur: RUR
+requirement: Знание HTML5 / CSS3. Уверенное знание JS(ES6). Опыт разработки с помощью Vue 2/3, Nuxt. Понимание SSR. 
+responsibility: Разработка на Vue, Nuxt. Временная оценка задач. Code Review. Участие в проектировании взаимодействия пользовательского интерфейса. Работа в паре с backend...
+employer: Веб-Культ
+api: HH
+----------
+name: Middle QA Engineer
+area_name: Минск
+url: https://hh.ru/vacancy/86719193
+salary_from: 0
+salary_to: 0
+salary_cur: RUR
+requirement: Хорошие навыки Browser DevTools. Знание приниципов ООП. Навык или желание изучить <highlighttext>Java</highlighttext> 8+ for automation QA (мы готовы обучить). 
+responsibility: Заниматься написанием чек-листов и полноценных тестовых сценариев, описывать кейсы воспроизведения обнаруженных ошибок. Идентифицировать дефекты и проблемные места и регистрировать...
+employer: ЛЕЙМИ
+api: HH
+----------
+name: Junior Java-разработчик
+area_name: Москва
+url: https://hh.ru/vacancy/86416517
+salary_from: 0
+salary_to: 0
+salary_cur: RUR
+requirement: Законченное высшее образование. Понимание ООП. Знание <highlighttext>Java</highlighttext> 8. Знание Spring (Spring Boot, Spring JPA). Базовые знания по многопоточности. 
+responsibility: Техническое развитие проекта, исследование новых технологий и их интеграция. Участие в развитии архитектуры. Дополнять техническую документацию и инструкции.
+employer: Mediascope
+api: HH
+----------
+name: Стажёр тестировщик сайтов и мобильных приложений
+area_name: Москва
+url: https://hh.ru/vacancy/86500982
+salary_from: 15000
+salary_to: 30000
+salary_cur: RUR
+requirement: Понимание современных методологий тестирования. Умение разрабатывать и продумывать различные тест-кейсы и тест-планы. Широкий кругозор в области современных мобильных...
+responsibility: <highlighttext>Java</highlighttext>, React Js (для разработки систем). PHP (Bitrix), HTML, CSS, Js (для разработки сайтов). Swift, Kotlin (для Mobile). 
+employer: Nti.team
+api: HH
+----------
+name: Фронтенд разработчик (React)
+area_name: Новосибирск
+url: https://hh.ru/vacancy/86737891
+salary_from: 0
+salary_to: 0
+salary_cur: RUR
+requirement: Опыт коммерческой разработки фронтенда от 2 лет. Уверенное знание JavaScript. Опыт написания Unit-тестов. Знание CSS. Умение работать с Git. 
+responsibility: Разрабатывать и поддерживать бизнес-функциональность продукта в составе платформы. Участвовать в проектировании архитектуры. Быть частью большой команды разработчиков различного уровня.
+employer: IBS
+api: HH
+----------
+name: Junior Java разработчик
+area_name: Брянск
+url: https://hh.ru/vacancy/86705347
+salary_from: 35000
+salary_to: 45000
+salary_cur: RUR
+requirement: ...<highlighttext>Java</highlighttext> SE и опыт объектно-ориентированного программирования. Опыт работы с БД PostgreSQL. Знание любого из web фреймворков на базе <highlighttext>Java</highlighttext>. 
+responsibility: Разработка и сопровождение серверной части web сайтов и приложений для социальных сетей. Ведение трекера задач (redmine).
+employer: М-Сошал
+api: HH
+----------
+name: Java-разработчик
+area_name: Москва
+url: https://hh.ru/vacancy/86536757
+salary_from: 0
+salary_to: 0
+salary_cur: RUR
+requirement: Опыт работы с микросервисной архитектурой. Уверенное использование <highlighttext>Java</highlighttext> Stream Api. Базовое знание алгоритмов. Умение определять алгоритмическую сложность написанного кода. 
+responsibility: Принимать непосредственное участие в создании программного продукта и заниматься написанием кода для back-части. Принимать участие в обсуждении реализации задач...
+employer: Гаскар Интеграция
+api: HH
+----------
+name: Junior backend-разработчик
+area_name: Рязань
+url: https://hh.ru/vacancy/86213456
+salary_from: 30000
+salary_to: None
+salary_cur: RUR
+requirement: Опыт работы с Go. Пройденный GoTour. Работа с git. Примеры проектов. Опыт создания HTTP-сервисов.
+responsibility: Создавать веб-сервисы, автоматизирующие маркетинг. Работать с высоконагруженными приложениями. Разрабатывать на Go, работать с SQL и NoSQL базами данных.
+employer: enKod
+api: HH
+----------
+name: Программист Java
+area_name: Москва
+url: https://hh.ru/vacancy/86627290
+salary_from: 130000
+salary_to: 200000
+salary_cur: RUR
+requirement: Хорошие практические знания <highlighttext>Java</highlighttext>. Опыт работы с Spring, Hibernate, использования XML, JSON, git. Знание Linux на уровне пользователя. 
+responsibility: 
+employer: Комтех-Н
+api: HH
+----------
+name: Cтажер-разработчик Python/C# (Data Engineer)
+area_name: Москва
+url: https://hh.ru/vacancy/86551216
+salary_from: 35000
+salary_to: 35000
+salary_cur: RUR
+requirement: Базовое знание Python, а также статически типизированного языка с ООП (C#, С++, <highlighttext>Java</highlighttext> и др.), предпочтительно .NET/C#. 
+responsibility: Net6+ везде, многое в k8s. Монолит — не легаси, поддерживаем на актуальном стеке и активно развиваем, 30...
+employer: Mindbox
+api: HH
+----------
+name: Стажер в интернет-стартап
+area_name: Санкт-Петербург
+url: https://hh.ru/vacancy/86533689
+salary_from: None
+salary_to: 20000
+salary_cur: RUR
+requirement: Минимум полное среднее образование. Хороший письменный и устный русский язык. Желательно владение иностранным языком на уровне чтения текстов со словарем. 
+responsibility: Наполнение базы данных контентом: литературой на разных (в основном европейских) языках. Редактура существующих в системе текстов. Участие в проектировании визуальных...
+employer: Капинус Станислав
+api: HH
+----------
+name: Android разработчик
+area_name: Москва
+url: https://hh.ru/vacancy/86628844
+salary_from: 80000
+salary_to: 100000
+salary_cur: RUR
+requirement: Опыт разработки мобильных приложений Android от 1 года. Уверенное владение Kotlin. Знание Android SDK, Android Studio. Знание REST API, SOAP...
+responsibility: Реализация различных фичей в соответствии с ТЗ и макетами Figma. Анализ производительности ПО. Написание рабочей документации к разработкам. 
+employer: Dev Universe
+api: HH
+----------
+name: Junior java разработчик (Platform V Paus)
+area_name: Москва
+url: https://hh.ru/vacancy/86516415
+salary_from: None
+salary_to: 200000
+salary_cur: RUR
+requirement: Коммерческий опыт разработки на <highlighttext>Java</highlighttext> 8+ от 1 года. Опыт работы с Spring Framework - Spring Core, JDBC, Web, Transactions. 
+responsibility: Разработка cloud-native компонентов интеграционной платформы: мониторинг, autoscaling, компоненты безопасности, типовые интеграционные компоненты, автоматизация работы с cloud (OpenShift API). 
+employer: SberTech
+api: HH
+----------
+name: Помощник веб разработчика/junior web developer
+area_name: Великий Новгород
+url: https://hh.ru/vacancy/86415288
+salary_from: 30000
+salary_to: None
+salary_cur: RUR
+requirement: Много. Технологии: 1. Опыт с другими языками программирования: PHP, Python, <highlighttext>Java</highlighttext> и т.д... 2. Опыт с Linux и в...
+responsibility: Надо будет делать: 1. Участвовать в разработке новых веб-приложений. Делать то, что сможете делать. 2. Вести проекты на поддержке...
+employer: Traffic agency
+api: HH
+----------
+name: Стажер-разработчик Java
+area_name: Нижний Новгород
+url: https://hh.ru/vacancy/86320601
+salary_from: 0
+salary_to: 0
+salary_cur: RUR
+requirement: Знакомство с GIT и GitLab, создание проектов. Знакомство со Spring Framework и основными паттернами.
+responsibility: Основные системы сборки и развертывания приложений. SQL и реляционные базы данных. Оформление документации в Swagger. Разработка REST API. 
+employer: Лига Цифровой Экономики
+api: HH
+----------
+name: Веб разработчик (Junior Frontend / HTML верстальщик)
+area_name: Ростов-на-Дону
+url: https://hh.ru/vacancy/86472396
+salary_from: None
+salary_to: 50000
+salary_cur: RUR
+requirement: Динамика усвоения знаний и навыков, полученных в процессе работы / обучения. Качество и скорость выполнения задач. Уверенные знания HTML5, CSS...
+responsibility: Производство услуги под кураторством старшего специалиста — 60%. Обучение — 40%.
+employer: SAMEDIA MG
+api: HH
+----------
+name: Juniour Java Backend Developer
+area_name: Минск
+url: https://hh.ru/vacancy/86264197
+salary_from: 0
+salary_to: 0
+salary_cur: RUR
+requirement: <highlighttext>Java</highlighttext> 8+. Spring Core, Spring MVC, Spring Boot. Большим плюсом будет: - знание низкоуровневого программирования С/С++. - углубленное знание компьютерных...
+responsibility: планировать архитектуру приложений, участвовать в выборе технологий и фреймворков. - проектировать структуру БД и организовывать взаимодействие с ней. - писать качественный код...
+employer: Зета Солюшнз
+api: HH
+----------
+name: Backend-разработчик
+area_name: Москва
+url: https://hh.ru/vacancy/85934488
+salary_from: 75000
+salary_to: None
+salary_cur: RUR
+requirement: Основы программирования по языкам (JavaScript, Python).
+responsibility: Веб-разработка при помощи (HTML+CSS, Javascript, JS (GameDev), Python). ISmart организует группы и учебный процесс, предоставляет программу обучения и образовательный...
+employer: Айсмарт
+api: HH
+----------
+name: Java программист
+area_name: Сыктывкар
+url: https://hh.ru/vacancy/86445766
+salary_from: 40000
+salary_to: 200000
+salary_cur: RUR
+requirement: Знание языков <highlighttext>Java</highlighttext>, SQL. Умение понимать ER-диаграммы. Знание основных структур и алгоритмов. Знание языков <highlighttext>Java</highlighttext>, SQL. Умение понимать ER...
+responsibility: Разработка и оптимизация <highlighttext>Java</highlighttext>-кода, Web-сервисов (REST/SOAP). Интеграция приложений.
+employer: Технология
+api: HH
+----------
+name: Junior Backend - разработчик
+area_name: Самара
+url: https://hh.ru/vacancy/86425845
+salary_from: 0
+salary_to: 0
+salary_cur: RUR
+requirement: Node.js (Express). ООП и его реализация в TypeScript. Асинхронный JavaScript. Понимание устройства БД и умение строить запросы на SQL (у...
+responsibility: Возможность обоснованно влиять на стратегические планы и используемые технологии (работа с владельцами напрямую). Печенье, чай, пицца и здоровенный ласковый ручной...
+employer: НЕОСОФТ
+api: HH
+----------
+name: Backend разработчик (junior)
+area_name: Москва
+url: https://hh.ru/vacancy/86599753
+salary_from: 70000
+salary_to: 80000
+salary_cur: RUR
+requirement: Опыт командной работы (jira, Bitrix24 и т.д.). Самостоятельность, умение работать с чужим кодом, рефакторинг и улучшение существующего кода. 
+responsibility: Интеграция API с внешними системами и backend-частью. Проектирование API и доработка.
+employer: ЛАНИТ
+api: HH
+----------
+name: Junior frontend JS / React developer разработчик
+area_name: Санкт-Петербург
+url: https://hh.ru/vacancy/86661011
+salary_from: None
+salary_to: 120000
+salary_cur: RUR
+requirement: React до 2х лет. Знание JavaScript / TypeScript (деструктуризация, промисы, работа с объектами, fetch, прототипы, event loop и т.д.). 
+responsibility: Участие в миграции всех продуктов на React. Представление своих идей, видения. Работа с сокетами. Работа в команде с тимлидом, бек...
+employer: Skilla Работа
+api: HH
+----------
+name: Программист-стажер
+area_name: Москва
+url: https://hh.ru/vacancy/86630378
+salary_from: 10000
+salary_to: 15000
+salary_cur: RUR
+requirement: 
+responsibility: Проведение интерактивных перемен с детьми, создание дружеской легкой атмосферы. Подготовка видеороликов и отчетов об уроке. Работа в CRM системе.
+employer: KiberOne (ИП Зивтинь Мария Олеговна)
+api: HH
+----------
+name: Junior программист/разработчик Frontend backend/Junior разработчик
+area_name: Москва
+url: https://hh.ru/vacancy/86519375
+salary_from: 75000
+salary_to: 90000
+salary_cur: RUR
+requirement: Начальный уровень <highlighttext>Java</highlighttext>, знание или желание разобраться в архитектуре Android начиная с версии 8 и заканчивая последней. Огромное желание учиться...
+responsibility: Разрабатываем и дорабатываем несколько приложений на <highlighttext>Java</highlighttext>/kotlin под android. Пишем плагины, много работаем с opensource (нужно уметь читать чужой...
+employer: AVPOWER
+api: HH
+----------
+name: QA инженер / Специалист по тестированию / Тестировщик
+area_name: Ярославль
+url: https://hh.ru/vacancy/86568679
+salary_from: 0
+salary_to: 0
+salary_cur: RUR
+requirement: Наличие представления о SOAP протоколе. Знание базовых SQL запросов. Базовые знания <highlighttext>Java</highlighttext> или Python. Базовые навыки автоматизации (или понимание, зачем...
+responsibility: Работа в роли Fullstack QA инженера на одном из проектов наших заказчиков. Проведение тестирования всех платформ (Web, IOS, Android, Backend). 
+employer: STRONG TEAM
+api: HH
+----------
+name: Junior DevOps Engineer
+area_name: Минск
+url: https://hh.ru/vacancy/86672462
+salary_from: 0
+salary_to: 0
+salary_cur: RUR
+requirement: Опыт написания скриптов на Bash (плюсом будет опыт работы с <highlighttext>Java</highlighttext>, Groovy, Python). Понимание технологий и опыт работы с ними...
+responsibility: Участие в построении, автоматизации и развитии процессов DevOps. Разработка и внедрение пайплайнов GitLab CI, Atlassian Bamboo. Провиженинг инфраструктуры c использованием...
+employer: Qulix Systems
+api: HH
+----------
+name: Backend - разработчик (golang, java)
+area_name: Екатеринбург
+url: https://hh.ru/vacancy/86412119
+salary_from: 60000
+salary_to: 150000
+salary_cur: RUR
+requirement: Умение разобраться в чужом коде. Опыт коммерческой разработки от 1 года (ВАЖНО! курсы, типа skillbox, intercode и др не учитываются...
+responsibility: Аккредитация в Минцифры (льготы для сотрудников).
+employer: Ситис
+api: HH
+----------
+name: Frontend-разработчик (React), Удалённо
+area_name: Москва
+url: https://hh.ru/vacancy/86470655
+salary_from: 0
+salary_to: 0
+salary_cur: RUR
+requirement: ...на <highlighttext>Java</highlighttext>. Знание современных практик разработки и проектирования ПО. Знание Web APIs, gitlab CI/CD, Docker, S3, SQL, <highlighttext>Java</highlighttext>...
+responsibility: Разработка CRM системы.
+employer: Ньютон Технологии
+api: HH
+----------
+name: Java-разработчик
+area_name: Москва
+url: https://hh.ru/vacancy/86671535
+salary_from: 0
+salary_to: 0
+salary_cur: RUR
+requirement: Опыт работы с <highlighttext>Java</highlighttext> Core от 1 года. Навыки использования <highlighttext>Java</highlighttext> EE/Jakarta EE и EJB 3. Опыт разработки приложения...
+responsibility: Разрабатывать API слой компании. Настраивать, тестировать и сопровождать системы. Участвовать в проектировании архитектуры системы. Анализировать и оценивать различные варианты реализации...
+employer: АльфаСтрахование Жизнь
+api: HH
+----------
+name: Тестировщик программного обеспечения (Екатеринбург)
+area_name: Екатеринбург
+url: https://hh.ru/vacancy/86600271
+salary_from: None
+salary_to: 50000
+salary_cur: RUR
+requirement: Знание одной из областей: SQL, HTML, C++/C#/<highlighttext>Java</highlighttext>, либо другой язык программирования. Опыт работы с решениями, использующими Selenium WebDriver. 
+responsibility: Проведение тестирования и прием реализованных доработок в системе WSS Docs. Функциональное тестирование. Нагрузочное тестирование. Кроссбраузерное тестирование. Тестирование мобильных приложений. 
+employer: WSS-Consulting
+api: HH
+----------
+name: Trainee/Junior QA automation engineer (Java)
+area_name: Брест
+url: https://hh.ru/vacancy/86560305
+salary_from: 0
+salary_to: 0
+salary_cur: RUR
+requirement: Базовые знания <highlighttext>Java</highlighttext>; знания Selenuim Webdriver, Maven, JUnit, TestNG. Умение составлять тикеты в Jira, YT. Аналитический ум и внимательность, усидчивость...
+responsibility: 
+employer: СенамаСофт
+api: HH
+----------
+name: Frontend-разработчик
+area_name: Москва
+url: https://hh.ru/vacancy/85934327
+salary_from: 75000
+salary_to: None
+salary_cur: RUR
+requirement: Основы программирования по языкам (JavaScript, Python).
+responsibility: Веб-разработка при помощи (HTML+CSS, Javascript, JS (GameDev), Python). ISmart организует группы и учебный процесс, предоставляет программу обучения и образовательный...
+employer: Айсмарт
+api: HH
+----------
+name: QA Engineer (TVBS Team)
+area_name: Ростов-на-Дону
+url: https://hh.ru/vacancy/86683564
+salary_from: 0
+salary_to: 0
+salary_cur: RUR
+requirement: Будет плюсом: Знание основ одного из языков программирования (например, python). Опыт работы в проектах на <highlighttext>Java</highlighttext>, Erlang, Go. 
+responsibility: 
+employer: TradingView
+api: HH
+----------
+name: Стажер Back-end разработчика: php, java, python, c#
+area_name: Москва
+url: https://hh.ru/vacancy/86499208
+salary_from: 15000
+salary_to: 30000
+salary_cur: RUR
+requirement: Знание одного из языков: php, python, <highlighttext>java</highlighttext>, c#. Наличие учебного опыта серверной разработки. Желательно профильное высшее образование по разработке (если...
+responsibility: Разработка на bitrix framework. Разработка API для мобильных приложений и веб-интерфейсов. Интеграция по API с внешними сервисами (банки, доставщики...
+employer: Nti.team
+api: HH
+----------
+name: Java Developer
+area_name: Москва
+url: https://hh.ru/vacancy/86458121
+salary_from: 0
+salary_to: 0
+salary_cur: RUR
+requirement: Хорошо знаешь <highlighttext>Java</highlighttext> 11 и то, как она устроена внутри. Знаком со всеми или большинством из вышеупомянутых технологий, либо готов...
+responsibility: Разрабатывать функционал банковской системы. Решать сложные и интересные архитектурные задачи. Проектировать новые фичи и рефакторить старые. При желании, выполнять фуллстек...
+employer: TWINO
+api: HH
+----------
+name: Программист Java (Junior)
+area_name: Йошкар-Ола
+url: https://hh.ru/vacancy/86401118
+salary_from: 60000
+salary_to: 100000
+salary_cur: RUR
+requirement: Ответственность, обучаемость, стремление развиваться. Умение работать в команде. Знания <highlighttext>Java</highlighttext> Core, основы SQL, основы HTML/CSS/JavaScript. Желателен опыт работы...
+responsibility: Автоматизацией бизнесс-процессов компании. Развитием CRM, Billing (автоматизированная система расчета услуг связи). Интеграцией с другими информационными системами компании; разработкой новых...
+employer: Уфанет
+api: HH
+----------
+name: Android developer (java, kotlin)
+area_name: Москва
+url: https://hh.ru/vacancy/86644610
+salary_from: 0
+salary_to: 0
+salary_cur: RUR
+requirement: Kotlin, <highlighttext>java</highlighttext>. Желательно, но не обязательно. Понимание основ машинного обучения. Понимание работы ARcore. Понимание работы датчиков телефона.
+responsibility: Разработка мобильных приложений. Работа с камерами устройства (фото, видео, тепловизионная). Работа с датчиками мобильного устройства. Внедрение моделей машинного обучения на...
+employer: MindSet
+api: HH
+----------
+name: Аналитик Junior
+area_name: Москва
+url: https://hh.ru/vacancy/86626993
+salary_from: 50000
+salary_to: 70000
+salary_cur: RUR
+requirement: Техническое высшее образование. Общие знания о работе аналитика. Технический склад ума. Грамотная речь.
+responsibility: Анализ требований бизнеса. Постановка задач на разработку по внутренней архитектуре и принципам. Тестирование. Построение проектных решений и диаграмм.
+employer: Wanted
+api: HH
+----------
+name: Младший разработчик
+area_name: Нижний Новгород
+url: https://hh.ru/vacancy/82671952
+salary_from: 50000
+salary_to: None
+salary_cur: RUR
+requirement: Желательно знание PL/SQL или PL/pgSQL, опыт работы с Oracle или PostgreSQL. Плюсом будет знание Scala, <highlighttext>Java</highlighttext>, навыки работы...
+responsibility: Реализация задач среднего уровня сложности по разработке комплексной корпоративной информационной системы под руководством разработчика. Постоянный рост квалификации.
+employer: Бизнес Технологии
+api: HH
+----------
+name: Java разработчик
+area_name: Москва
+url: https://hh.ru/vacancy/86517575
+salary_from: 0
+salary_to: 0
+salary_cur: RUR
+requirement: Опыт коммерческой разработки на <highlighttext>JAVA</highlighttext> от 2-х лет. Понимание принципов Agile. Опыт работы с <highlighttext>Java</highlighttext> 8-11. 
+responsibility: Разработка как нового функционала, так и развитие текущего. Автоматизация функционального тестирования. Исправление дефектов. Участие в ревью кода. Участие в обсуждении...
+employer: Центр Новых Финансовых Сервисов
+api: HH
+----------
+name: Java-разработчик
+area_name: Москва
+url: https://hh.ru/vacancy/86644431
+salary_from: 170000
+salary_to: None
+salary_cur: RUR
+requirement: Уверенное использование IDE IntelliJ IDEA. Умение работать с системами контроля версий (GitLab) и системами сборки( Maven). Опыт разработки, внедрения и...
+responsibility: Поддержка и развитие функциональности существующих сервисов, разработка новых сервисов. Участие в качестве разработчика в R&D команде по развитию компонент...
+employer: Эйчар Сервис Партнер
+api: HH
+----------
+name: Программист Java (Junior)
+area_name: Казань
+url: https://hh.ru/vacancy/86399367
+salary_from: 60000
+salary_to: 100000
+salary_cur: RUR
+requirement: Ответственность, обучаемость, стремление развиваться. Умение работать в команде. Знания <highlighttext>Java</highlighttext> Core, основы SQL, основы HTML/CSS/JavaScript. Желателен опыт работы...
+responsibility: Уфанет предоставляет услуги: Интернет, Телефония, Телевидение, Информационные и медийные проекты, IT-сопровождение, Системы безопасности, Умный домофон, Умный дом, Мобильная связь...
+employer: Уфанет
+api: HH
+----------
+name: Разработчик Java (Junior)
+area_name: Москва
+url: https://hh.ru/vacancy/86455010
+salary_from: 0
+salary_to: 0
+salary_cur: RUR
+requirement: Высшее оконченное образование. Опыт работы от 1 года. Знания <highlighttext>Java</highlighttext> 8+, Spring Framework, Maven. Любовь к чистоте в коде. 
+responsibility: Разработка бизнес-логики на сервере приложений. Анализ требований, декомпозиция задач. Проектирование решения в составе кросс-функциональной команды. Участие в приемо...
+employer: Bell Integrator
+api: HH
+----------
+name: Начинающий it-специалист/ Резвый Эникейщик
+area_name: Москва
+url: https://hh.ru/vacancy/86287550
+salary_from: 80000
+salary_to: None
+salary_cur: RUR
+requirement: Навыки работы с Windows server 2008/2016, 7, 10, Linux Ubuntu. Страсть и любознательность в изучении нейронных сетей, ИИ и...
+responsibility: Обслуживание компьютерной техники и оргтехники, сетевой инфраструктуры. Помощь в обслуживании, мелком ремонте компьютеров и оргтехники; апгрейд компьютеров. Помощь в поддержании...
+employer: Интеллектуальные робот системы
+api: HH
+----------
+name: Тестировщик
+area_name: Москва
+url: https://hh.ru/vacancy/86598503
+salary_from: 120000
+salary_to: 170000
+salary_cur: RUR
+requirement: Общий опыт работы на позиции тестировщика от 2-х лет. Опыт тестирования интеграционных взаимодействий крупного бизнеса. Разбор логов, локализация ошибок...
+responsibility: Проведение системного, интеграционно-функционального, регрессионного тестирования в рамках регулярных интеграционных релизов. Разработка тест-кейсов. Активное взаимодействие с участниками команд (аналитиками...
+employer: Datanomica
+api: HH
+----------
+name: Java-программист (виртуализация)
+area_name: Москва
+url: https://hh.ru/vacancy/86528565
+salary_from: 0
+salary_to: 0
+salary_cur: RUR
+requirement: Опыт и знание принципов работы систем виртуализации. Знание <highlighttext>Java</highlighttext>, GWT, Spring, EJB, SQL. Критично наличие коммерческого опыта и готовность работы...
+responsibility: Доработка менеджера виртуализации. Исправление ошибок.
+employer: Ред Софт
+api: HH
+----------
+name: Стажер-разработчик программного обеспечения
+area_name: Красноярск
+url: https://hh.ru/vacancy/85699126
+salary_from: 41000
+salary_to: None
+salary_cur: RUR
+requirement: Практические навыки написания SQL запросов. Знание следующих языков программирования: <highlighttext>Java</highlighttext>, TypeScript. Знание следующих фреймворков: Angular, Spring Boot. Опыт работы с...
+responsibility: Изучение технологии и инструментов разработки программного обеспечения. Разработка нового и доработка существующего функционала программного обеспечения. Локализация и исправление ошибок в...
+employer: Сибирские интеграционные системы
+api: HH
+----------
+name: HTML-верстальщик
+area_name: Казань
+url: https://hh.ru/vacancy/86343498
+salary_from: 40000
+salary_to: 60000
+salary_cur: RUR
+requirement: Владение HTML, CSS3, Javascript, jQuery,Vue.js,Ajax,Bootstrap. Знание особенностей кроссбраузерной верстки. Писать читабельный и хорошо задокументированный код. 
+responsibility: Верстка адаптивных сайтов под различные устройства. Поддержка и внесение изменений в действующие сайты.
+employer: Директ
+api: HH
+----------
+name: Инженер-стажер (Java)
+area_name: Санкт-Петербург
+url: https://hh.ru/vacancy/85995646
+salary_from: 0
+salary_to: 0
+salary_cur: RUR
+requirement: Знаешь ООП, классические алгоритмы и структуры данных. Знаешь <highlighttext>Java</highlighttext> SE 8 и выше (Core/ IO/ Collections/ Exception handling/ Concurrency/ GC...
+responsibility: Участвовать в разработке нового продукта в области MDM в составе команды разработчиков на стеке <highlighttext>Java</highlighttext>. Писать техническую (не пользовательскую) документацию. 
+employer: Юниверс Дата
+api: HH
+----------
+name: Стажер-разработчик / web-программист
+area_name: Пятигорск
+url: https://hh.ru/vacancy/85965657
+salary_from: 30000
+salary_to: None
+salary_cur: RUR
+requirement: Базовые знания Javascript, HTML, CSS. Знание английского языка будет плюсом, но не является обязательным требованием. Приветствуется знание одного из фреймворков...
+responsibility: 
+employer: Fortech
+api: HH
+----------
+name: Java-разработчик
+area_name: Алматы
+url: https://hh.ru/vacancy/86506289
+salary_from: 0
+salary_to: 0
+salary_cur: RUR
+requirement: ...<highlighttext>Java</highlighttext>. Опыт разработки клиент-серверных приложений. Понимание ООП, паттернов проектирования, понимание принципов SOLID. Умение писать поддерживаемый код. Уверенное знание <highlighttext>Java</highlighttext>...
+responsibility: Разрабатывать новые и улучшать существующие сервисы. Активно участвовать в процессе разработки, от проектирования архитектуры до релиза. Написание высоконагруженных web приложений. 
+employer: ДОЧЕРНЯЯ ОРГАНИЗАЦИЯ НАРОДНОГО БАНКА КАЗАХСТАНА HALYK FINSERVICE
+api: HH
+----------
+name: QA Automation Engineer Java
+area_name: Москва
+url: https://hh.ru/vacancy/85443501
+salary_from: 0
+salary_to: 0
+salary_cur: RUR
+requirement: Обязателен коммерческий опыт работы тестировщиком от 6 месяцев на языке <highlighttext>Java</highlighttext>. Опыт работы с одним из фреймворков тестирования на <highlighttext>Java</highlighttext>...
+responsibility: Разработка автотестов. Локализация проблем и их документирование. Разработка инфраструктуры автотестирования. Интеграция тестовой инфраструктуры. Модификация процесса тестирования под нужны проекта. 
+employer: Performance Lab (Перфоманс Лаб)
+api: HH
+----------
+name: Java Software Engineer
+area_name: Минск
+url: https://hh.ru/vacancy/86531431
+salary_from: 0
+salary_to: 0
+salary_cur: RUR
+requirement: Знание и понимание принципов ООП, SOLID, основных паттернов проектирования. Уверенные знания <highlighttext>Java</highlighttext> SE (8/11). Понимание архитектуры Spring Framework. 
+responsibility: Программирование, участие в разработке IT-проектов. Поддержка и обслуживание проектов. Разработка приложений. Взаимодействие с другими разработчиками.
+employer: СЕНЛА
+api: HH
+----------
+name: Junior React разработчик
+area_name: Новочеркасск
+url: https://hh.ru/vacancy/86286426
+salary_from: 50000
+salary_to: None
+salary_cur: RUR
+requirement: Опыт от 1 года коммерческой разработки. Знание языков программирования JavaScript и TypeScript. Знание библиотеки React. Знание одного из стейт менеджеров...
+responsibility: Antd / material ui. Moment / date fns / day.js. Chart.js.
+employer: Fortech
+api: HH
+----------
+name: Стажер Back-end разработчика: php, java, python, c#
+area_name: Санкт-Петербург
+url: https://hh.ru/vacancy/86499209
+salary_from: 15000
+salary_to: 30000
+salary_cur: RUR
+requirement: Знание одного из языков: php, python, <highlighttext>java</highlighttext>, c#. Наличие учебного опыта серверной разработки. Желательно профильное высшее образование по разработке (если...
+responsibility: Разработка на bitrix framework. Разработка API для мобильных приложений и веб-интерфейсов. Интеграция по API с внешними сервисами (банки, доставщики...
+employer: Nti.team
+api: HH
+----------
+name: Разработчик автотестов / QA Engineer (Automation)
+area_name: Москва
+url: https://hh.ru/vacancy/85771163
+salary_from: 0
+salary_to: 0
+salary_cur: RUR
+requirement: Базовые знания стека протоколов TCP/IP, REST/SOAP API. Уверенные знания <highlighttext>Java</highlighttext>, Spring (Spring Boot, Spring JPA, Spring Cloud). 
+responsibility: Участие в автоматизации процесса тестирования: Разработка и сопровождение автоматизированных тестов на <highlighttext>Java</highlighttext>. Разработка тестовой модели автоматизированных тест-кейсов. 
+employer: АЙКОНТЕХ
+api: HH
+----------
+name: Младший Java разработчик
+area_name: Москва
+url: https://hh.ru/vacancy/86022199
+salary_from: 60000
+salary_to: 110000
+salary_cur: RUR
+requirement: Уверенное знание принципов объектно-ориентированного программирования, <highlighttext>Java</highlighttext>-core, SQL, теории СУБД. Опыт работы с одной из реляционных БД (DB2...
+responsibility: Разработка клиент-серверных приложений на платформе <highlighttext>Java</highlighttext> с WEB интерфейсом.
+employer: ИВИС, OOO
+api: HH
+----------
+name: Программист-разработчик Java (Стажер)
+area_name: Тула
+url: https://hh.ru/vacancy/85589793
+salary_from: 114000
+salary_to: 114000
+salary_cur: RUR
+requirement: Высшее профильное (IT) образование. — Опыт разработки на <highlighttext>Java</highlighttext>. — Опыт работы с Spring Framework, JPA. — Опыт работы с реляционными СУБД (PostgreSQL...
+responsibility: 
+employer: KTE Labs
+api: HH
+----------
+name: Java-разработчик
+area_name: Москва
+url: https://hh.ru/vacancy/86593431
+salary_from: 0
+salary_to: 0
+salary_cur: RUR
+requirement: Наличие опыта программирования на <highlighttext>Java</highlighttext> от 2 лет. Высшее образование. Опыт работы с реляционными базами данных. Опыт написания плагинов для...
+responsibility: Разработка приложений, новых сервисов, доработка текущих систем и платформ. Поддержка и оптимизация ранее написанного исходного кода. Исследование возможностей систем и...
+employer: Группа компаний С7
+api: HH
+----------
+name: Стажер QA-инженер
+area_name: Томск
+url: https://hh.ru/vacancy/85425753
+salary_from: 0
+salary_to: 0
+salary_cur: RUR
+requirement: Будет плюсом знакомство с инструментами Swagger, Postman, DevTools. Будет плюсом опыт разработки автотестов на <highlighttext>Java</highlighttext> и готовность развиваться в этом...
+responsibility: 
+employer: Ртк-Элемент
+api: HH
+----------
+name: Тестировщик/QA инженер (Middle)
+area_name: Москва
+url: https://hh.ru/vacancy/86321871
+salary_from: 0
+salary_to: 0
+salary_cur: RUR
+requirement: Хорошее знание теории тестирования ПО. Опыт проведения функционального, регрессионного и интеграционного тестирования, самостоятельного написания и составления тестовой документации. 
+responsibility: Участие в продуктовой команде, взаимодействие с разработчиками, аналитиками, владельцами продукта. Тестирование front-end, back-end и приложения Android (REST API). 
+employer: А1 Системс
+api: HH
+----------
+name: Middle Java developer
+area_name: Минск
+url: https://hh.ru/vacancy/86677912
+salary_from: 40000
+salary_to: 80000
+salary_cur: RUR
+requirement: Опыт: от 2 лет коммерческой разработки. НАВЫКИ (обязательные). <highlighttext>Java</highlighttext> 8+. <highlighttext>Java</highlighttext> Core (Collections, IO, Exceptions). Хорошее понимание ООП. 
+responsibility: Мы предоставляем услуги управленческого и ИТ-консалтинга, системной интеграции, разработки, внедрения и сопровождения ПО, построения комплексных инженерно-технических решений для...
+employer: ОТР Минск
+api: HH
+----------
+name: FrontEnd / FullStack специалист
+area_name: Москва
+url: https://hh.ru/vacancy/86687779
+salary_from: 150000
+salary_to: None
+salary_cur: RUR
+requirement: ...взаимодействия с сервером по HTTP(RESTful API) и WebSocket. D. Уверенная работа с Git. E. Желательно знание языков golang/<highlighttext>java</highlighttext>.
+responsibility: Собственная испытательная лаборатория по выявлению новых типов угроз.
+employer: Веблок
+api: HH
+----------
+name: Intern / Junior QA Engineer
+area_name: Санкт-Петербург
+url: https://hh.ru/vacancy/85461476
+salary_from: 45000
+salary_to: None
+salary_cur: RUR
+requirement: Высшее образование (или успешное обучение на старших курсах) в области ИТ/CS, математики, системного анализа. Представление о процессах тестирования. 
+responsibility: Разбираться в сложной, инновационной и динамичной предметной области (fintech). Тестировать продукты компании и клиентские конфигурации продуктов. Разрабатывать и поддерживать тестовые...
+employer: Солантек
+api: HH
+----------
+name: QA engineer
+area_name: Москва
+url: https://hh.ru/vacancy/86054643
+salary_from: 0
+salary_to: 0
+salary_cur: RUR
+requirement: Опыт работы в тестировании, разработке, внедрении и сопровождении ПО от 3 лет. Профильное, техническое образование. Понимание процесса разработки и жизненного...
+responsibility: Ручное функциональное и нефункциональное тестирование приложений и сервисов с применением тестовых сценариев. Описание тест-кейсов для нового функционала, описание кейсов...
+employer: Фазум
+api: HH
+----------
+name: Младший аналитик (IT)
+area_name: Москва
+url: https://hh.ru/vacancy/86145684
+salary_from: 100000
+salary_to: 140000
+salary_cur: RUR
+requirement: Опыт работы в данной сфере необязателен. Перед трудоустройством проводится подготовка. Приветствуются базовые знания SQL, <highlighttext>Java</highlighttext>, Python, C#, JavaScript, PHP.
+responsibility: Анализ процессов компании. Составление схем бизнес-процессов. Составление технических заданий (ТЗ). Постановка задач разработчикам. Контроль сроков выполнения задач. 
+employer: Olima
+api: HH
+----------
+name: Web-программист
+area_name: Казань
+url: https://hh.ru/vacancy/86356434
+salary_from: 50000
+salary_to: 100000
+salary_cur: RUR
+requirement: Обязательные знания и опыт от 1 года: HTML 5. CSS 3. PHP 7. Javascript + Jquery. Опыт работы от 1...
+responsibility: Выполнение задач по Техническому заданию. Изменение текущего кода или написание нового функционала. Работа в программе контроля задач. Выполнение задач в...
+employer: Петрушин Е.С.
+api: HH
+----------
+name: QA-инженер (стажер)
+area_name: Новосибирск
+url: https://hh.ru/vacancy/86460244
+salary_from: 0
+salary_to: 0
+salary_cur: RUR
+requirement: Учитесь в магистратуре или на последнем курсе бакалавриата или в школе 21. Знаете основы <highlighttext>Java</highlighttext>. Имеете опыт работы с БД...
+responsibility: Фиксация требований. Анализ требований. Разработка тест-кейсов. Ручное тестирование. Разработка автотестов. Подготовка отчётов по результатам тестирования.
+employer: SberTech
+api: HH
+----------
+name: Тестировщик ПО (Департамент Страхование)
+area_name: Москва
+url: https://hh.ru/vacancy/85941652
+salary_from: 0
+salary_to: 0
+salary_cur: RUR
+requirement: Знание SQL. Опыт работы с системами учета багов. Опыт непосредственного участия в приемо-сдаточных испытаниях. Опыт создания автоматизированного тестирования (<highlighttext>Java</highlighttext>...
+responsibility: Функциональное ручное тестирование клиент-серверных приложений. Разработка тестовой документации (составление и актуализация тест-планов, тест-кейсов). Заведение, отслеживание и поддержка...
+employer: Diasoft
+api: HH
+----------
+name: Старший Java/Kotlin разработчик
+area_name: Санкт-Петербург
+url: https://hh.ru/vacancy/86668856
+salary_from: None
+salary_to: 600000
+salary_cur: RUR
+requirement: Коммерческий опыт работы от 5 лет. Опыт работы с Kotlin от 2х лет. Английский B1+. Знание SQL.
+responsibility: Разрабатывать новые продукты компании. Принимать участие в проектировании интерфейсов. Развивать текущую архитектуру.
+employer: Offer Now
+api: HH
+----------
+name: Java Intern
+area_name: Алматы
+url: https://hh.ru/vacancy/86199181
+salary_from: 0
+salary_to: 0
+salary_cur: RUR
+requirement: Уверенные знания <highlighttext>Java</highlighttext> Core и многопоточности. Опыт использования технологий <highlighttext>Java</highlighttext> Web (Front-End: HTML, CSS, JavaScript; Back-End: Servlets). 
+responsibility: 
+employer: Epam Kazakhstan (Эпам Казахстан),ТОО
+api: HH
+----------
+name: Инженер-программист Java (Junior)
+area_name: Воронеж
+url: https://hh.ru/vacancy/84638354
+salary_from: 0
+salary_to: 0
+salary_cur: RUR
+requirement: Опыт программирования на языке <highlighttext>Java</highlighttext>. Знание и опыт использования шаблонов проектирования. Знание основ проектирования и применения баз данных. 
+responsibility: 
+employer: ИНОБИТЕК
+api: HH
+----------
+name: Senior Java + Kotlin Developer
+area_name: Москва
+url: https://hh.ru/vacancy/86716429
+salary_from: 345000
+salary_to: 575000
+salary_cur: RUR
+requirement: Есть опыт разработки backend на <highlighttext>Java</highlighttext>/Kotlin. Отличное знаешь <highlighttext>Java</highlighttext> Core и Concurrency. Имеется опыт написания тестов. Хорошо знаешь SQL...
+responsibility: Разработкой новых продуктов компании. Поддержанием и развитием текущей архитектуры. Будешь участвовать в новых проектах. Разработкой инфраструктурного кода. Написанием тестов. 
+employer: MandarinIT
+api: HH
+----------
+name: QA тестировщик (удаленно)
+area_name: Москва
+url: https://hh.ru/vacancy/85549797
+salary_from: 0
+salary_to: 0
+salary_cur: RUR
+requirement: Будет плюсом. Опыт автоматизации тестирования на Python или на <highlighttext>Java</highlighttext>. Знание ООП и паттернов разработки автотестов. Опыт интеграции автотестов в...
+responsibility: Закрываем полный цикл разработки: от UX/UI до развертывания и сопровождения. Работаем небольшими командами 8-12 человек. Тестирование систем на...
+employer: DCloud
+api: HH
+----------
+name: Junior верстальщик сайтов / разработчик / SEO инженер
+area_name: Краснодар
+url: https://hh.ru/vacancy/86081245
+salary_from: 25000
+salary_to: 45000
+salary_cur: RUR
+requirement: Полезные навыки: - внимательность. - навыки программировании на bitrix, OpenCart, HTML, <highlighttext>Java</highlighttext>​​​​​​​. !!! Возможно увеличение окладной части при наличии опыта или знаний !!!
+responsibility: верстка и редактирование сайтов. - наполнение сайтов контентом. - обработка контента. - СЕО оптимизация сайта. - написание текстов.
+employer: Карате Маркетинг
+api: HH
+----------
+name: Java-разработчик (удалённо)
+area_name: Москва
+url: https://hh.ru/vacancy/85415927
+salary_from: 0
+salary_to: 0
+salary_cur: RUR
+requirement: Spring Framework (Core, MVC, Data, Batch, Cloud). Знание Spring Boot 2.0 и выше. Опыт работы с JPA, Hibernate. 
+responsibility: Закрываем полный цикл разработки: от UX/UI до развертывания и сопровождения. Работаем небольшими командами 8-12 человек. Работа в небольших...
+employer: DCloud
+api: HH
+----------
+name: QA-инженер
+area_name: Таганрог
+url: https://taganrog.superjob.ru/vakansii/qa-inzhener-47405662.html
+salary_from: 80000
+salary_to: 0
+salary_cur: RUR
+requirement: В компанию по разработке ПО для терминалов предрейсового медицинского осмотра требуется QA инженер.
+Обязанности:
+• 
+Тестирование ПО на терминалах предрейсовых осмотров. Написание и выполнение тестов (Java)
+Требования:
+• Уверенное знание теории и практики тестирования;
+• Понимание и применение BDD
+• Опыт работы с инструментами CI/CD;
+• Опыт работы с API;
+• Использование Git;
+Условия:
+• Уверенное знание теории и практики тестирования;
+• Понимание и применение BDD
+• Опыт работы с инструментами CI/CD;
+• Опыт работы с API;
+• Использование Git;
+responsibility: В компанию по разработке ПО для терминалов предрейсового медицинского осмотра требуется QA инженер.
+Обязанности:
+• 
+Тестирование ПО на терминалах предрейсовых осмотров. Написание и выполнение тестов (Java)
+Требования:
+• Уверенное знание теории и практики тестирования;
+• Понимание и применение BDD
+• Опыт работы с инструментами CI/CD;
+• Опыт работы с API;
+• Использование Git;
+Условия:
+• Уверенное знание теории и практики тестирования;
+• Понимание и применение BDD
+• Опыт работы с инструментами CI/CD;
+• Опыт работы с API;
+• Использование Git;
+employer: Jobers
+api: SuperJob
+----------
+name: Java Developer (middle)
+area_name: Таганрог
+url: https://taganrog.superjob.ru/vakansii/java-developer-47405790.html
+salary_from: 200000
+salary_to: 0
+salary_cur: RUR
+requirement: В компанию по разработке ПО для терминалов предрейсового медицинского осмотра требуется разработчик Java.
+Обязанности:
+• 
+Разработка приложения для терминалов предрейсовых осмотров (Java 8)
+Требования:
+• Опыт коммерческой разработки.
+• Опыт разработки многопоточных приложений.
+• Знание паттернов проектирования, умение их применять на практике
+• Опыт работы с API;
+• Использование Git;
+• JavaFX;
+• Опыт разработки под Linux;
+• Умение работать с периферийными устройствами
+Условия:
+• Требуемый опыт работы: от 3 лет.
+• Полная занятость (график 5/2).
+• Присутствие в офисе (Таганрог)
+• Оформление по ТК РФ
+• Входим в реестр аккредитованных ИТ-компаний.
+responsibility: В компанию по разработке ПО для терминалов предрейсового медицинского осмотра требуется разработчик Java.
+Обязанности:
+• 
+Разработка приложения для терминалов предрейсовых осмотров (Java 8)
+Требования:
+• Опыт коммерческой разработки.
+• Опыт разработки многопоточных приложений.
+• Знание паттернов проектирования, умение их применять на практике
+• Опыт работы с API;
+• Использование Git;
+• JavaFX;
+• Опыт разработки под Linux;
+• Умение работать с периферийными устройствами
+Условия:
+• Требуемый опыт работы: от 3 лет.
+• Полная занятость (график 5/2).
+• Присутствие в офисе (Таганрог)
+• Оформление по ТК РФ
+• Входим в реестр аккредитованных ИТ-компаний.
+employer: Jobers
+api: SuperJob
+----------
+name: Преподаватель программирования, веб-разработки
+area_name: Волгоград
+url: https://volgograd.superjob.ru/vakansii/prepodavatel-programmirovaniya-38561557.html
+salary_from: 35000
+salary_to: 0
+salary_cur: RUR
+requirement: Обязанности:
+• Реализация ряда дисциплин, связанных с использованием информационных технологий в образовании для студентов направления подготовки Информационные системы и программирование (Квалификации Программист и Разработчик мультиседийных и веб приложений 
+• Знакомство студентов с основами программирования на CИ++, разработка управляемых приложений на платформе «1С:Предприятие», использования различных программных решений, создания веб-приложений и т.д.
+
+
+• ЕСЛИ У ВАС НЕТ ПЕДАГОГИЧЕСКОГО ОБРАЗОВАНИЯ,НО ЕСТЬ ЖЕЛАНИЕ ДЕЛИТЬСЯ ОПЫТОМ И ЗНАНИЯМИ СО СТУДЕНТАМИ, КОТОРЫЕ ПЛАНИРУЮТ СВЯЗАТЬ СВОЮ ЖИЗНЬ С IТ, МЫ ОРГАНИЗУЕМ ДЛЯ ВАС ПРОФЕССИОНАЛЬНУЮ ПЕРЕПОДГОТОВКУ.
+
+Знать:
+
+ 
+• Языки программирования: C/C#/C++, Python, Java, JavaScript, Assembler и др.
+• Web-разработка: HTML, CSS, PHP, JavaScript;
+• Разработка компьютерных игр: Unity;
+• Разработка бизнес приложений на платформе «1С:Предприятие»;
+• Робототехника;
+• Компьютерное железо;
+• Администрирование Windows, Linux;
+• Микроконтроллеры: Arduino, ESP32, STM32 и др.;
+• Системное администрирование Windows или Linux;
+• Компьютерные сети.
+Условия:
+• Работа в Аудиториях обустроенных современным оборудованием (i5/i7 последних поколений, 16/32 gb RAM, GTX1650/RTX2070Super) 
+• Оформление согласно ТК РФ
+responsibility: Обязанности:
+• Реализация ряда дисциплин, связанных с использованием информационных технологий в образовании для студентов направления подготовки Информационные системы и программирование (Квалификации Программист и Разработчик мультиседийных и веб приложений 
+• Знакомство студентов с основами программирования на CИ++, разработка управляемых приложений на платформе «1С:Предприятие», использования различных программных решений, создания веб-приложений и т.д.
+
+
+• ЕСЛИ У ВАС НЕТ ПЕДАГОГИЧЕСКОГО ОБРАЗОВАНИЯ,НО ЕСТЬ ЖЕЛАНИЕ ДЕЛИТЬСЯ ОПЫТОМ И ЗНАНИЯМИ СО СТУДЕНТАМИ, КОТОРЫЕ ПЛАНИРУЮТ СВЯЗАТЬ СВОЮ ЖИЗНЬ С IТ, МЫ ОРГАНИЗУЕМ ДЛЯ ВАС ПРОФЕССИОНАЛЬНУЮ ПЕРЕПОДГОТОВКУ.
+
+Знать:
+
+ 
+• Языки программирования: C/C#/C++, Python, Java, JavaScript, Assembler и др.
+• Web-разработка: HTML, CSS, PHP, JavaScript;
+• Разработка компьютерных игр: Unity;
+• Разработка бизнес приложений на платформе «1С:Предприятие»;
+• Робототехника;
+• Компьютерное железо;
+• Администрирование Windows, Linux;
+• Микроконтроллеры: Arduino, ESP32, STM32 и др.;
+• Системное администрирование Windows или Linux;
+• Компьютерные сети.
+Условия:
+• Работа в Аудиториях обустроенных современным оборудованием (i5/i7 последних поколений, 16/32 gb RAM, GTX1650/RTX2070Super) 
+• Оформление согласно ТК РФ
+employer: Государственное автономное профессиональное образовательное учреждение " Волгоградский социально-педагогический колледж" (ГАПОУ "ВСПК")
+api: SuperJob
+----------
+name: Программист-педагог
+area_name: Новокузнецк
+url: https://novokuznetsk.superjob.ru/vakansii/programmist-pedagog-43502923.html
+salary_from: 20000
+salary_to: 40000
+salary_cur: RUR
+requirement: Обязанности: педагоги-наставники на направления: Python, Java, С#:
+
+• обучение детей и молодежи по программам дополнительного образования; 
+• помощь и поддержка обучающихся в освоении языка программирования;
+
+• разработка совместных проектов с учащимися;
+• оформление готовых продуктов;
+• участие в массовых мероприятиях с учащимися.
+Требования:
+• образование высшее или среднее специальное (рассматриваются студенты начиная с 4го курса);
+• опыт работы приветствуется (рассматриваются начинающие специалисты);
+• умение доводить дело до логического завершения.
+Условия:
+
+• соблюдение правил внутреннего распорядка;
+• исполнительская дисциплина;
+• справка об отсутствии судимости;
+• наличие санитарной книжки (ежегодный медосмотр, санминимум для работников сферы образования, вакцинация).
+
+Для вас:
+
+• полный социальный пакет;
+• стабильная з/п два раза в месяц;
+• дружный коллектив;
+• ежегодный отпуск 42 дня;
+• оформление по ТК РФ.
+responsibility: Обязанности: педагоги-наставники на направления: Python, Java, С#:
+
+• обучение детей и молодежи по программам дополнительного образования; 
+• помощь и поддержка обучающихся в освоении языка программирования;
+
+• разработка совместных проектов с учащимися;
+• оформление готовых продуктов;
+• участие в массовых мероприятиях с учащимися.
+Требования:
+• образование высшее или среднее специальное (рассматриваются студенты начиная с 4го курса);
+• опыт работы приветствуется (рассматриваются начинающие специалисты);
+• умение доводить дело до логического завершения.
+Условия:
+
+• соблюдение правил внутреннего распорядка;
+• исполнительская дисциплина;
+• справка об отсутствии судимости;
+• наличие санитарной книжки (ежегодный медосмотр, санминимум для работников сферы образования, вакцинация).
+
+Для вас:
+
+• полный социальный пакет;
+• стабильная з/п два раза в месяц;
+• дружный коллектив;
+• ежегодный отпуск 42 дня;
+• оформление по ТК РФ.
+employer: МБУ ДО "Центр детского (юношеского) технического творчества "Меридиан"
+api: SuperJob
+----------
+name: Учитель по программированию
+area_name: Андреевка
+url: https://andreevka.superjob.ru/vakansii/uchitel-po-programmirovaniyu-45698480.html
+salary_from: 0
+salary_to: 60000
+salary_cur: RUR
+requirement: Обязанности:
+• 
+Обучение детей (4-14 лет) в группах программированию 
+• 
+Формирование у учеников логического системного мышления и развитие технических творческих способностей 
+
+• Обучение детей основам проектной работы в IT
+• Поддержание интереса и мотивации учеников 
+Требования:
+• 
+Опыт работы с детьми (аниматор, репетитор, воспитатель, вожатый, учитель, опытный родитель или старший брат/сестра
+• Уверенное владение компьютером. В идеале, знание основ алгоритмического языка и программирования. (Предпочтительно: Scratch JR, Scratch, Snap, Stencyl, Tynker, Blockly, Перволого, Пиктомир)
+• Умение объяснять сложное простыми (иногда детскими) словами 
+• Любовь к детям и умение направить их энергию в нужное русло 
+
+• Знание текстовых языков программирования Python, Java и прочее - желательно 
+
+Условия:
+• 
+Удобный график (очень многое можно скорректировать совместно с администратором) 
+• Возможность обучать мотивированных детей, которые стремятся узнать все о современных технологиях и не только 
+• Увлеченная команда преподавателей 
+
+• Интересные и амбициозные задачи
+• Профессия квалифицированного детского IT тренера - одна из самых востребованных на рынке труда
+responsibility: Обязанности:
+• 
+Обучение детей (4-14 лет) в группах программированию 
+• 
+Формирование у учеников логического системного мышления и развитие технических творческих способностей 
+
+• Обучение детей основам проектной работы в IT
+• Поддержание интереса и мотивации учеников 
+Требования:
+• 
+Опыт работы с детьми (аниматор, репетитор, воспитатель, вожатый, учитель, опытный родитель или старший брат/сестра
+• Уверенное владение компьютером. В идеале, знание основ алгоритмического языка и программирования. (Предпочтительно: Scratch JR, Scratch, Snap, Stencyl, Tynker, Blockly, Перволого, Пиктомир)
+• Умение объяснять сложное простыми (иногда детскими) словами 
+• Любовь к детям и умение направить их энергию в нужное русло 
+
+• Знание текстовых языков программирования Python, Java и прочее - желательно 
+
+Условия:
+• 
+Удобный график (очень многое можно скорректировать совместно с администратором) 
+• Возможность обучать мотивированных детей, которые стремятся узнать все о современных технологиях и не только 
+• Увлеченная команда преподавателей 
+
+• Интересные и амбициозные задачи
+• Профессия квалифицированного детского IT тренера - одна из самых востребованных на рынке труда
+employer: Школа программирования
+api: SuperJob
+----------
+name: Учитель по программированию
+area_name: Зеленоград
+url: https://zelenograd.superjob.ru/vakansii/uchitel-po-programmirovaniyu-45698481.html
+salary_from: 0
+salary_to: 60000
+salary_cur: RUR
+requirement: Обязанности:
+• 
+Обучение детей (4-14 лет) в группах программированию 
+• 
+Формирование у учеников логического системного мышления и развитие технических творческих способностей 
+
+• Обучение детей основам проектной работы в IT
+• Поддержание интереса и мотивации учеников 
+Требования:
+• 
+Опыт работы с детьми (аниматор, репетитор, воспитатель, вожатый, учитель, опытный родитель или старший брат/сестра
+• Уверенное владение компьютером. В идеале, знание основ алгоритмического языка и программирования. (Предпочтительно: Scratch JR, Scratch, Snap, Stencyl, Tynker, Blockly, Перволого, Пиктомир)
+• Умение объяснять сложное простыми (иногда детскими) словами 
+• Любовь к детям и умение направить их энергию в нужное русло 
+
+• Знание текстовых языков программирования Python, Java и прочее - желательно 
+
+Условия:
+• 
+Удобный график (очень многое можно скорректировать совместно с администратором) 
+• Возможность обучать мотивированных детей, которые стремятся узнать все о современных технологиях и не только 
+• Увлеченная команда преподавателей 
+
+• Интересные и амбициозные задачи
+• Профессия квалифицированного детского IT тренера - одна из самых востребованных на рынке труда
+responsibility: Обязанности:
+• 
+Обучение детей (4-14 лет) в группах программированию 
+• 
+Формирование у учеников логического системного мышления и развитие технических творческих способностей 
+
+• Обучение детей основам проектной работы в IT
+• Поддержание интереса и мотивации учеников 
+Требования:
+• 
+Опыт работы с детьми (аниматор, репетитор, воспитатель, вожатый, учитель, опытный родитель или старший брат/сестра
+• Уверенное владение компьютером. В идеале, знание основ алгоритмического языка и программирования. (Предпочтительно: Scratch JR, Scratch, Snap, Stencyl, Tynker, Blockly, Перволого, Пиктомир)
+• Умение объяснять сложное простыми (иногда детскими) словами 
+• Любовь к детям и умение направить их энергию в нужное русло 
+
+• Знание текстовых языков программирования Python, Java и прочее - желательно 
+
+Условия:
+• 
+Удобный график (очень многое можно скорректировать совместно с администратором) 
+• Возможность обучать мотивированных детей, которые стремятся узнать все о современных технологиях и не только 
+• Увлеченная команда преподавателей 
+
+• Интересные и амбициозные задачи
+• Профессия квалифицированного детского IT тренера - одна из самых востребованных на рынке труда
+employer: Школа программирования
+api: SuperJob
+----------
+name: Учитель по программированию
+area_name: Красногорск
+url: https://krasnogorsk.superjob.ru/vakansii/uchitel-po-programmirovaniyu-45698482.html
+salary_from: 0
+salary_to: 60000
+salary_cur: RUR
+requirement: Обязанности:
+• 
+Обучение детей (4-14 лет) в группах программированию 
+• 
+Формирование у учеников логического системного мышления и развитие технических творческих способностей 
+
+• Обучение детей основам проектной работы в IT
+• Поддержание интереса и мотивации учеников 
+Требования:
+• 
+Опыт работы с детьми (аниматор, репетитор, воспитатель, вожатый, учитель, опытный родитель или старший брат/сестра
+• Уверенное владение компьютером. В идеале, знание основ алгоритмического языка и программирования. (Предпочтительно: Scratch JR, Scratch, Snap, Stencyl, Tynker, Blockly, Перволого, Пиктомир)
+• Умение объяснять сложное простыми (иногда детскими) словами 
+• Любовь к детям и умение направить их энергию в нужное русло 
+
+• Знание текстовых языков программирования Python, Java и прочее - желательно 
+
+Условия:
+• 
+Удобный график (очень многое можно скорректировать совместно с администратором) 
+• Возможность обучать мотивированных детей, которые стремятся узнать все о современных технологиях и не только 
+• Увлеченная команда преподавателей 
+
+• Интересные и амбициозные задачи
+• Профессия квалифицированного детского IT тренера - одна из самых востребованных на рынке труда
+responsibility: Обязанности:
+• 
+Обучение детей (4-14 лет) в группах программированию 
+• 
+Формирование у учеников логического системного мышления и развитие технических творческих способностей 
+
+• Обучение детей основам проектной работы в IT
+• Поддержание интереса и мотивации учеников 
+Требования:
+• 
+Опыт работы с детьми (аниматор, репетитор, воспитатель, вожатый, учитель, опытный родитель или старший брат/сестра
+• Уверенное владение компьютером. В идеале, знание основ алгоритмического языка и программирования. (Предпочтительно: Scratch JR, Scratch, Snap, Stencyl, Tynker, Blockly, Перволого, Пиктомир)
+• Умение объяснять сложное простыми (иногда детскими) словами 
+• Любовь к детям и умение направить их энергию в нужное русло 
+
+• Знание текстовых языков программирования Python, Java и прочее - желательно 
+
+Условия:
+• 
+Удобный график (очень многое можно скорректировать совместно с администратором) 
+• Возможность обучать мотивированных детей, которые стремятся узнать все о современных технологиях и не только 
+• Увлеченная команда преподавателей 
+
+• Интересные и амбициозные задачи
+• Профессия квалифицированного детского IT тренера - одна из самых востребованных на рынке труда
+employer: Школа программирования
+api: SuperJob
+----------
+name: Учитель по программированию
+area_name: Малино
+url: https://mo.superjob.ru/vakansii/uchitel-po-programmirovaniyu-45698483.html
+salary_from: 0
+salary_to: 60000
+salary_cur: RUR
+requirement: Обязанности:
+• 
+Обучение детей (4-14 лет) в группах программированию 
+• 
+Формирование у учеников логического системного мышления и развитие технических творческих способностей 
+
+• Обучение детей основам проектной работы в IT
+• Поддержание интереса и мотивации учеников 
+Требования:
+• 
+Опыт работы с детьми (аниматор, репетитор, воспитатель, вожатый, учитель, опытный родитель или старший брат/сестра
+• Уверенное владение компьютером. В идеале, знание основ алгоритмического языка и программирования. (Предпочтительно: Scratch JR, Scratch, Snap, Stencyl, Tynker, Blockly, Перволого, Пиктомир)
+• Умение объяснять сложное простыми (иногда детскими) словами 
+• Любовь к детям и умение направить их энергию в нужное русло 
+
+• Знание текстовых языков программирования Python, Java и прочее - желательно 
+
+Условия:
+• 
+Удобный график (очень многое можно скорректировать совместно с администратором) 
+• Возможность обучать мотивированных детей, которые стремятся узнать все о современных технологиях и не только 
+• Увлеченная команда преподавателей 
+
+• Интересные и амбициозные задачи
+• Профессия квалифицированного детского IT тренера - одна из самых востребованных на рынке труда
+responsibility: Обязанности:
+• 
+Обучение детей (4-14 лет) в группах программированию 
+• 
+Формирование у учеников логического системного мышления и развитие технических творческих способностей 
+
+• Обучение детей основам проектной работы в IT
+• Поддержание интереса и мотивации учеников 
+Требования:
+• 
+Опыт работы с детьми (аниматор, репетитор, воспитатель, вожатый, учитель, опытный родитель или старший брат/сестра
+• Уверенное владение компьютером. В идеале, знание основ алгоритмического языка и программирования. (Предпочтительно: Scratch JR, Scratch, Snap, Stencyl, Tynker, Blockly, Перволого, Пиктомир)
+• Умение объяснять сложное простыми (иногда детскими) словами 
+• Любовь к детям и умение направить их энергию в нужное русло 
+
+• Знание текстовых языков программирования Python, Java и прочее - желательно 
+
+Условия:
+• 
+Удобный график (очень многое можно скорректировать совместно с администратором) 
+• Возможность обучать мотивированных детей, которые стремятся узнать все о современных технологиях и не только 
+• Увлеченная команда преподавателей 
+
+• Интересные и амбициозные задачи
+• Профессия квалифицированного детского IT тренера - одна из самых востребованных на рынке труда
+employer: Школа программирования
+api: SuperJob
+----------
+name: Учитель по программированию
+area_name: Менделеево
+url: https://mo.superjob.ru/vakansii/uchitel-po-programmirovaniyu-45698484.html
+salary_from: 0
+salary_to: 60000
+salary_cur: RUR
+requirement: Обязанности:
+• 
+Обучение детей (4-14 лет) в группах программированию 
+• 
+Формирование у учеников логического системного мышления и развитие технических творческих способностей 
+
+• Обучение детей основам проектной работы в IT
+• Поддержание интереса и мотивации учеников 
+Требования:
+• 
+Опыт работы с детьми (аниматор, репетитор, воспитатель, вожатый, учитель, опытный родитель или старший брат/сестра
+• Уверенное владение компьютером. В идеале, знание основ алгоритмического языка и программирования. (Предпочтительно: Scratch JR, Scratch, Snap, Stencyl, Tynker, Blockly, Перволого, Пиктомир)
+• Умение объяснять сложное простыми (иногда детскими) словами 
+• Любовь к детям и умение направить их энергию в нужное русло 
+
+• Знание текстовых языков программирования Python, Java и прочее - желательно 
+
+Условия:
+• 
+Удобный график (очень многое можно скорректировать совместно с администратором) 
+• Возможность обучать мотивированных детей, которые стремятся узнать все о современных технологиях и не только 
+• Увлеченная команда преподавателей 
+
+• Интересные и амбициозные задачи
+• Профессия квалифицированного детского IT тренера - одна из самых востребованных на рынке труда
+responsibility: Обязанности:
+• 
+Обучение детей (4-14 лет) в группах программированию 
+• 
+Формирование у учеников логического системного мышления и развитие технических творческих способностей 
+
+• Обучение детей основам проектной работы в IT
+• Поддержание интереса и мотивации учеников 
+Требования:
+• 
+Опыт работы с детьми (аниматор, репетитор, воспитатель, вожатый, учитель, опытный родитель или старший брат/сестра
+• Уверенное владение компьютером. В идеале, знание основ алгоритмического языка и программирования. (Предпочтительно: Scratch JR, Scratch, Snap, Stencyl, Tynker, Blockly, Перволого, Пиктомир)
+• Умение объяснять сложное простыми (иногда детскими) словами 
+• Любовь к детям и умение направить их энергию в нужное русло 
+
+• Знание текстовых языков программирования Python, Java и прочее - желательно 
+
+Условия:
+• 
+Удобный график (очень многое можно скорректировать совместно с администратором) 
+• Возможность обучать мотивированных детей, которые стремятся узнать все о современных технологиях и не только 
+• Увлеченная команда преподавателей 
+
+• Интересные и амбициозные задачи
+• Профессия квалифицированного детского IT тренера - одна из самых востребованных на рынке труда
+employer: Школа программирования
+api: SuperJob
+----------
+name: Учитель по программированию
+area_name: Поварово
+url: https://mo.superjob.ru/vakansii/uchitel-po-programmirovaniyu-45698485.html
+salary_from: 0
+salary_to: 60000
+salary_cur: RUR
+requirement: Обязанности:
+• 
+Обучение детей (4-14 лет) в группах программированию 
+• 
+Формирование у учеников логического системного мышления и развитие технических творческих способностей 
+
+• Обучение детей основам проектной работы в IT
+• Поддержание интереса и мотивации учеников 
+Требования:
+• 
+Опыт работы с детьми (аниматор, репетитор, воспитатель, вожатый, учитель, опытный родитель или старший брат/сестра
+• Уверенное владение компьютером. В идеале, знание основ алгоритмического языка и программирования. (Предпочтительно: Scratch JR, Scratch, Snap, Stencyl, Tynker, Blockly, Перволого, Пиктомир)
+• Умение объяснять сложное простыми (иногда детскими) словами 
+• Любовь к детям и умение направить их энергию в нужное русло 
+
+• Знание текстовых языков программирования Python, Java и прочее - желательно 
+
+Условия:
+• 
+Удобный график (очень многое можно скорректировать совместно с администратором) 
+• Возможность обучать мотивированных детей, которые стремятся узнать все о современных технологиях и не только 
+• Увлеченная команда преподавателей 
+
+• Интересные и амбициозные задачи
+• Профессия квалифицированного детского IT тренера - одна из самых востребованных на рынке труда
+responsibility: Обязанности:
+• 
+Обучение детей (4-14 лет) в группах программированию 
+• 
+Формирование у учеников логического системного мышления и развитие технических творческих способностей 
+
+• Обучение детей основам проектной работы в IT
+• Поддержание интереса и мотивации учеников 
+Требования:
+• 
+Опыт работы с детьми (аниматор, репетитор, воспитатель, вожатый, учитель, опытный родитель или старший брат/сестра
+• Уверенное владение компьютером. В идеале, знание основ алгоритмического языка и программирования. (Предпочтительно: Scratch JR, Scratch, Snap, Stencyl, Tynker, Blockly, Перволого, Пиктомир)
+• Умение объяснять сложное простыми (иногда детскими) словами 
+• Любовь к детям и умение направить их энергию в нужное русло 
+
+• Знание текстовых языков программирования Python, Java и прочее - желательно 
+
+Условия:
+• 
+Удобный график (очень многое можно скорректировать совместно с администратором) 
+• Возможность обучать мотивированных детей, которые стремятся узнать все о современных технологиях и не только 
+• Увлеченная команда преподавателей 
+
+• Интересные и амбициозные задачи
+• Профессия квалифицированного детского IT тренера - одна из самых востребованных на рынке труда
+employer: Школа программирования
+api: SuperJob
+----------
+name: Учитель по программированию
+area_name: Ржавки
+url: https://mo.superjob.ru/vakansii/uchitel-po-programmirovaniyu-45698486.html
+salary_from: 0
+salary_to: 60000
+salary_cur: RUR
+requirement: Обязанности:
+• 
+Обучение детей (4-14 лет) в группах программированию 
+• 
+Формирование у учеников логического системного мышления и развитие технических творческих способностей 
+
+• Обучение детей основам проектной работы в IT
+• Поддержание интереса и мотивации учеников 
+Требования:
+• 
+Опыт работы с детьми (аниматор, репетитор, воспитатель, вожатый, учитель, опытный родитель или старший брат/сестра
+• Уверенное владение компьютером. В идеале, знание основ алгоритмического языка и программирования. (Предпочтительно: Scratch JR, Scratch, Snap, Stencyl, Tynker, Blockly, Перволого, Пиктомир)
+• Умение объяснять сложное простыми (иногда детскими) словами 
+• Любовь к детям и умение направить их энергию в нужное русло 
+
+• Знание текстовых языков программирования Python, Java и прочее - желательно 
+
+Условия:
+• 
+Удобный график (очень многое можно скорректировать совместно с администратором) 
+• Возможность обучать мотивированных детей, которые стремятся узнать все о современных технологиях и не только 
+• Увлеченная команда преподавателей 
+
+• Интересные и амбициозные задачи
+• Профессия квалифицированного детского IT тренера - одна из самых востребованных на рынке труда
+responsibility: Обязанности:
+• 
+Обучение детей (4-14 лет) в группах программированию 
+• 
+Формирование у учеников логического системного мышления и развитие технических творческих способностей 
+
+• Обучение детей основам проектной работы в IT
+• Поддержание интереса и мотивации учеников 
+Требования:
+• 
+Опыт работы с детьми (аниматор, репетитор, воспитатель, вожатый, учитель, опытный родитель или старший брат/сестра
+• Уверенное владение компьютером. В идеале, знание основ алгоритмического языка и программирования. (Предпочтительно: Scratch JR, Scratch, Snap, Stencyl, Tynker, Blockly, Перволого, Пиктомир)
+• Умение объяснять сложное простыми (иногда детскими) словами 
+• Любовь к детям и умение направить их энергию в нужное русло 
+
+• Знание текстовых языков программирования Python, Java и прочее - желательно 
+
+Условия:
+• 
+Удобный график (очень многое можно скорректировать совместно с администратором) 
+• Возможность обучать мотивированных детей, которые стремятся узнать все о современных технологиях и не только 
+• Увлеченная команда преподавателей 
+
+• Интересные и амбициозные задачи
+• Профессия квалифицированного детского IT тренера - одна из самых востребованных на рынке труда
+employer: Школа программирования
+api: SuperJob
+----------
+name: Учитель по программированию
+area_name: Солнечногорск
+url: https://solnechnogorsk.superjob.ru/vakansii/uchitel-po-programmirovaniyu-45698487.html
+salary_from: 0
+salary_to: 60000
+salary_cur: RUR
+requirement: Обязанности:
+• 
+Обучение детей (4-14 лет) в группах программированию 
+• 
+Формирование у учеников логического системного мышления и развитие технических творческих способностей 
+
+• Обучение детей основам проектной работы в IT
+• Поддержание интереса и мотивации учеников 
+Требования:
+• 
+Опыт работы с детьми (аниматор, репетитор, воспитатель, вожатый, учитель, опытный родитель или старший брат/сестра
+• Уверенное владение компьютером. В идеале, знание основ алгоритмического языка и программирования. (Предпочтительно: Scratch JR, Scratch, Snap, Stencyl, Tynker, Blockly, Перволого, Пиктомир)
+• Умение объяснять сложное простыми (иногда детскими) словами 
+• Любовь к детям и умение направить их энергию в нужное русло 
+
+• Знание текстовых языков программирования Python, Java и прочее - желательно 
+
+Условия:
+• 
+Удобный график (очень многое можно скорректировать совместно с администратором) 
+• Возможность обучать мотивированных детей, которые стремятся узнать все о современных технологиях и не только 
+• Увлеченная команда преподавателей 
+
+• Интересные и амбициозные задачи
+• Профессия квалифицированного детского IT тренера - одна из самых востребованных на рынке труда
+responsibility: Обязанности:
+• 
+Обучение детей (4-14 лет) в группах программированию 
+• 
+Формирование у учеников логического системного мышления и развитие технических творческих способностей 
+
+• Обучение детей основам проектной работы в IT
+• Поддержание интереса и мотивации учеников 
+Требования:
+• 
+Опыт работы с детьми (аниматор, репетитор, воспитатель, вожатый, учитель, опытный родитель или старший брат/сестра
+• Уверенное владение компьютером. В идеале, знание основ алгоритмического языка и программирования. (Предпочтительно: Scratch JR, Scratch, Snap, Stencyl, Tynker, Blockly, Перволого, Пиктомир)
+• Умение объяснять сложное простыми (иногда детскими) словами 
+• Любовь к детям и умение направить их энергию в нужное русло 
+
+• Знание текстовых языков программирования Python, Java и прочее - желательно 
+
+Условия:
+• 
+Удобный график (очень многое можно скорректировать совместно с администратором) 
+• Возможность обучать мотивированных детей, которые стремятся узнать все о современных технологиях и не только 
+• Увлеченная команда преподавателей 
+
+• Интересные и амбициозные задачи
+• Профессия квалифицированного детского IT тренера - одна из самых востребованных на рынке труда
+employer: Школа программирования
+api: SuperJob
+----------
+name: Учитель по программированию
+area_name: Химки
+url: https://himki.superjob.ru/vakansii/uchitel-po-programmirovaniyu-45698488.html
+salary_from: 0
+salary_to: 60000
+salary_cur: RUR
+requirement: Обязанности:
+• 
+Обучение детей (4-14 лет) в группах программированию 
+• 
+Формирование у учеников логического системного мышления и развитие технических творческих способностей 
+
+• Обучение детей основам проектной работы в IT
+• Поддержание интереса и мотивации учеников 
+Требования:
+• 
+Опыт работы с детьми (аниматор, репетитор, воспитатель, вожатый, учитель, опытный родитель или старший брат/сестра
+• Уверенное владение компьютером. В идеале, знание основ алгоритмического языка и программирования. (Предпочтительно: Scratch JR, Scratch, Snap, Stencyl, Tynker, Blockly, Перволого, Пиктомир)
+• Умение объяснять сложное простыми (иногда детскими) словами 
+• Любовь к детям и умение направить их энергию в нужное русло 
+
+• Знание текстовых языков программирования Python, Java и прочее - желательно 
+
+Условия:
+• 
+Удобный график (очень многое можно скорректировать совместно с администратором) 
+• Возможность обучать мотивированных детей, которые стремятся узнать все о современных технологиях и не только 
+• Увлеченная команда преподавателей 
+
+• Интересные и амбициозные задачи
+• Профессия квалифицированного детского IT тренера - одна из самых востребованных на рынке труда
+responsibility: Обязанности:
+• 
+Обучение детей (4-14 лет) в группах программированию 
+• 
+Формирование у учеников логического системного мышления и развитие технических творческих способностей 
+
+• Обучение детей основам проектной работы в IT
+• Поддержание интереса и мотивации учеников 
+Требования:
+• 
+Опыт работы с детьми (аниматор, репетитор, воспитатель, вожатый, учитель, опытный родитель или старший брат/сестра
+• Уверенное владение компьютером. В идеале, знание основ алгоритмического языка и программирования. (Предпочтительно: Scratch JR, Scratch, Snap, Stencyl, Tynker, Blockly, Перволого, Пиктомир)
+• Умение объяснять сложное простыми (иногда детскими) словами 
+• Любовь к детям и умение направить их энергию в нужное русло 
+
+• Знание текстовых языков программирования Python, Java и прочее - желательно 
+
+Условия:
+• 
+Удобный график (очень многое можно скорректировать совместно с администратором) 
+• Возможность обучать мотивированных детей, которые стремятся узнать все о современных технологиях и не только 
+• Увлеченная команда преподавателей 
+
+• Интересные и амбициозные задачи
+• Профессия квалифицированного детского IT тренера - одна из самых востребованных на рынке труда
+employer: Школа программирования
+api: SuperJob
+----------
+name: Учитель по программированию
+area_name: Чёрная Грязь
+url: https://mo.superjob.ru/vakansii/uchitel-po-programmirovaniyu-45698489.html
+salary_from: 0
+salary_to: 60000
+salary_cur: RUR
+requirement: Обязанности:
+• 
+Обучение детей (4-14 лет) в группах программированию 
+• 
+Формирование у учеников логического системного мышления и развитие технических творческих способностей 
+
+• Обучение детей основам проектной работы в IT
+• Поддержание интереса и мотивации учеников 
+Требования:
+• 
+Опыт работы с детьми (аниматор, репетитор, воспитатель, вожатый, учитель, опытный родитель или старший брат/сестра
+• Уверенное владение компьютером. В идеале, знание основ алгоритмического языка и программирования. (Предпочтительно: Scratch JR, Scratch, Snap, Stencyl, Tynker, Blockly, Перволого, Пиктомир)
+• Умение объяснять сложное простыми (иногда детскими) словами 
+• Любовь к детям и умение направить их энергию в нужное русло 
+
+• Знание текстовых языков программирования Python, Java и прочее - желательно 
+
+Условия:
+• 
+Удобный график (очень многое можно скорректировать совместно с администратором) 
+• Возможность обучать мотивированных детей, которые стремятся узнать все о современных технологиях и не только 
+• Увлеченная команда преподавателей 
+
+• Интересные и амбициозные задачи
+• Профессия квалифицированного детского IT тренера - одна из самых востребованных на рынке труда
+responsibility: Обязанности:
+• 
+Обучение детей (4-14 лет) в группах программированию 
+• 
+Формирование у учеников логического системного мышления и развитие технических творческих способностей 
+
+• Обучение детей основам проектной работы в IT
+• Поддержание интереса и мотивации учеников 
+Требования:
+• 
+Опыт работы с детьми (аниматор, репетитор, воспитатель, вожатый, учитель, опытный родитель или старший брат/сестра
+• Уверенное владение компьютером. В идеале, знание основ алгоритмического языка и программирования. (Предпочтительно: Scratch JR, Scratch, Snap, Stencyl, Tynker, Blockly, Перволого, Пиктомир)
+• Умение объяснять сложное простыми (иногда детскими) словами 
+• Любовь к детям и умение направить их энергию в нужное русло 
+
+• Знание текстовых языков программирования Python, Java и прочее - желательно 
+
+Условия:
+• 
+Удобный график (очень многое можно скорректировать совместно с администратором) 
+• Возможность обучать мотивированных детей, которые стремятся узнать все о современных технологиях и не только 
+• Увлеченная команда преподавателей 
+
+• Интересные и амбициозные задачи
+• Профессия квалифицированного детского IT тренера - одна из самых востребованных на рынке труда
+employer: Школа программирования
+api: SuperJob
+----------
+name: Руководитель группы разработки ПО (Техлид)
+area_name: Красноярск
+url: https://krasnoyarsk.superjob.ru/vakansii/rukovoditel-gruppy-razrabotki-po-46277766.html
+salary_from: 0
+salary_to: 0
+salary_cur: RUR
+requirement: Мы молодая, но уже известная на региональном рынке IT-компания. В нашей команде талантливые разработчики, креативные дизайнеры, опытные аналитики, ответственные менеджеры проектов. Результат нашей работы - активно используемые в государственном управлении информационные системы, отмеченные на всероссийских конкурсах "ПРОФ-IT" и "ПРОФ-IT Инновация". Разрабатываем с нуля, внедряем и сопровождаем сложные информационные системы. Вас ждёт широкий спектр интересных задач, позволяющих расти профессионально и реализовывать свои творческие амбиции.
+ Ищем амбициозного руководителя группы разработки программного обеспечения (техлида) для работы в Красноярске от 30 лет,который будет отвечать за работу своей команды, качество, которое они производят, скорость и темп, с которыми они работают, но, что наиболее важно – за общий рост людей в ней. Важен опыт работы в данной сфере от 4-х лет/высшее профильное образование.
+Мы используем:
+· Angular (Ionic);
+· HTML5, AJAX, CSS3, SASS;
+· TypeScript;
+· RxJS;
+· REST;
+· Python (Django)
+· Java Spring Boot
+Плюсом со стороны кандидата будет:
+· Наличие минимальных управленческих навыков;
+· Опыт работы с Docker, Kubernetes, Harbor;
+· Опыт в написании спецификаций OpenAPI;
+· Уверенное знание TypeScript;
+· Грамотное ведение Git репозитория
+Мы ценим:
+· Стремление к росту;
+· Умение работать в команде, неконфликтность;
+· Умение доносить свою мысль;
+· Умение задавать тон (желание быть основой того, чего ожидают от остальной команды);
+· Внимание к деталям, мелочам;
+· Чувство юмора
+Обязанности:
+· Развивать командную экспертность;
+· Работать в команде c разработчиками, тестировщиками, дизайнерами;
+· Внедрять новые технологии, понимать, как эти технологии используются в рамках проектов;
+· Обеспечивать эффективные коммуникации между членами команды (разработчики, тестировщики, дизайнеры, аналитики);
+· Отвечать за результаты разработки продуктов;
+· Помогать переводу задач бизнеса в задачи, понятные разработчикам;
+· Работать над несколькими проектами параллельно;
+· Быть наставником группы разработки до 20 человек.
+Мы предлагаем:
+· Официальное трудоустройство согласно ТК РФ;
+· Очную работу в офисе в центре города (пр. Мира) с доступом к любому виду транспорта;
+· График работы: пятидневная рабочая неделя с 9:00 до 18:00 или с 8:00 до 17:00;
+· Занятия английским 2 раза в неделю за счёт компании;
+· Официальное трудоустройство согласно ТК РФ;
+· Уровень “белой” з/пл. по результатам собеседования + премии;
+· Комфортные условия труда, оборудованная кухня, чай, кофе, дружный молодой коллектив;
+· ДМС за счёт компании;
+· Сопровождение наставника в роли начальника проектно-аналитического отдела на первых этапах работы;
+· Кафетерий льгот: обучение (накоплена обширная база курсов), спорт, отдых, туризм;
+· Возможность профессионального и карьерного роста;
+· Большие проекты краевого масштаба;
+· Развитую корпоративную культуру (мы проводим масштабные корпоративные мероприятия, дарим новогодние подарки детям, спортивные мероприятия, награждаем лучших сотрудников, поддерживаем в трудных жизненных ситуациях)
+
+
+Перспективы
+Прохождение курсов повышения квалификации за счёт компании, участие в различных семинарах, конференциях
+Порядок отклика
+Для рассмотрения вакансии, присылайте резюме и 2-3 свежие и лучшие работы по указанному электронному адресу.
+После получения резюме с Вами свяжутся и назначат время для прохождения собеседования в офисе нашей компании. Благодарим за проявленный интерес.
+responsibility: Мы молодая, но уже известная на региональном рынке IT-компания. В нашей команде талантливые разработчики, креативные дизайнеры, опытные аналитики, ответственные менеджеры проектов. Результат нашей работы - активно используемые в государственном управлении информационные системы, отмеченные на всероссийских конкурсах "ПРОФ-IT" и "ПРОФ-IT Инновация". Разрабатываем с нуля, внедряем и сопровождаем сложные информационные системы. Вас ждёт широкий спектр интересных задач, позволяющих расти профессионально и реализовывать свои творческие амбиции.
+ Ищем амбициозного руководителя группы разработки программного обеспечения (техлида) для работы в Красноярске от 30 лет,который будет отвечать за работу своей команды, качество, которое они производят, скорость и темп, с которыми они работают, но, что наиболее важно – за общий рост людей в ней. Важен опыт работы в данной сфере от 4-х лет/высшее профильное образование.
+Мы используем:
+· Angular (Ionic);
+· HTML5, AJAX, CSS3, SASS;
+· TypeScript;
+· RxJS;
+· REST;
+· Python (Django)
+· Java Spring Boot
+Плюсом со стороны кандидата будет:
+· Наличие минимальных управленческих навыков;
+· Опыт работы с Docker, Kubernetes, Harbor;
+· Опыт в написании спецификаций OpenAPI;
+· Уверенное знание TypeScript;
+· Грамотное ведение Git репозитория
+Мы ценим:
+· Стремление к росту;
+· Умение работать в команде, неконфликтность;
+· Умение доносить свою мысль;
+· Умение задавать тон (желание быть основой того, чего ожидают от остальной команды);
+· Внимание к деталям, мелочам;
+· Чувство юмора
+Обязанности:
+· Развивать командную экспертность;
+· Работать в команде c разработчиками, тестировщиками, дизайнерами;
+· Внедрять новые технологии, понимать, как эти технологии используются в рамках проектов;
+· Обеспечивать эффективные коммуникации между членами команды (разработчики, тестировщики, дизайнеры, аналитики);
+· Отвечать за результаты разработки продуктов;
+· Помогать переводу задач бизнеса в задачи, понятные разработчикам;
+· Работать над несколькими проектами параллельно;
+· Быть наставником группы разработки до 20 человек.
+Мы предлагаем:
+· Официальное трудоустройство согласно ТК РФ;
+· Очную работу в офисе в центре города (пр. Мира) с доступом к любому виду транспорта;
+· График работы: пятидневная рабочая неделя с 9:00 до 18:00 или с 8:00 до 17:00;
+· Занятия английским 2 раза в неделю за счёт компании;
+· Официальное трудоустройство согласно ТК РФ;
+· Уровень “белой” з/пл. по результатам собеседования + премии;
+· Комфортные условия труда, оборудованная кухня, чай, кофе, дружный молодой коллектив;
+· ДМС за счёт компании;
+· Сопровождение наставника в роли начальника проектно-аналитического отдела на первых этапах работы;
+· Кафетерий льгот: обучение (накоплена обширная база курсов), спорт, отдых, туризм;
+· Возможность профессионального и карьерного роста;
+· Большие проекты краевого масштаба;
+· Развитую корпоративную культуру (мы проводим масштабные корпоративные мероприятия, дарим новогодние подарки детям, спортивные мероприятия, награждаем лучших сотрудников, поддерживаем в трудных жизненных ситуациях)
+
+
+Перспективы
+Прохождение курсов повышения квалификации за счёт компании, участие в различных семинарах, конференциях
+Порядок отклика
+Для рассмотрения вакансии, присылайте резюме и 2-3 свежие и лучшие работы по указанному электронному адресу.
+После получения резюме с Вами свяжутся и назначат время для прохождения собеседования в офисе нашей компании. Благодарим за проявленный интерес.
+employer: ЦЕНТР ЦИФРОВОГО РАЗВИТИЯ
+api: SuperJob
+----------
+name: Системный аналитик
+area_name: Санкт-Петербург
+url: https://spb.superjob.ru/vakansii/sistemnyj-analitik-46922770.html
+salary_from: 90000
+salary_to: 120000
+salary_cur: RUR
+requirement: Обязанности:
+1. Анализ проектов и их окружения
+2. Проектирование и разработка архитектуры реализуемых программ
+3. Анализ хранения данных, информационных систем и процессов
+4. Анализ материала необходимого заказчику
+5. Экспертная оценка архитектурных систем и их конфигурации
+6. Составление uml/dml диаграмм
+7. Документация и формализация требований к проектам центра
+Требования:
+1. Образование высшее. Специальность по диплому: математик, программист 
+2. Опыт работы от 1 года. Приветствуется опыт работы в области блокчейна и знание Java/Go/HLF
+3. Необходимые профессиональные навыки и знания: знание uml/dml, понимание микросервисной архитектуры
+4. Знание английского языка – базовый уровень
+5. Личные качества: исполнительность, нацеленность на результат, математический склад ума
+Условия:
+1. Официальное оформление в соответствии с Трудовым законодательством РФ (заключается срочный трудовой договор на 1 год, согласно условиям финансирования проекта), оплачиваются отпускные и больничные
+2. Время работы с 10 до 19 часов. Возможна частично дистанционная работа
+3. Полностью оборудованное рабочее место
+4. Место работы:
+responsibility: Обязанности:
+1. Анализ проектов и их окружения
+2. Проектирование и разработка архитектуры реализуемых программ
+3. Анализ хранения данных, информационных систем и процессов
+4. Анализ материала необходимого заказчику
+5. Экспертная оценка архитектурных систем и их конфигурации
+6. Составление uml/dml диаграмм
+7. Документация и формализация требований к проектам центра
+Требования:
+1. Образование высшее. Специальность по диплому: математик, программист 
+2. Опыт работы от 1 года. Приветствуется опыт работы в области блокчейна и знание Java/Go/HLF
+3. Необходимые профессиональные навыки и знания: знание uml/dml, понимание микросервисной архитектуры
+4. Знание английского языка – базовый уровень
+5. Личные качества: исполнительность, нацеленность на результат, математический склад ума
+Условия:
+1. Официальное оформление в соответствии с Трудовым законодательством РФ (заключается срочный трудовой договор на 1 год, согласно условиям финансирования проекта), оплачиваются отпускные и больничные
+2. Время работы с 10 до 19 часов. Возможна частично дистанционная работа
+3. Полностью оборудованное рабочее место
+4. Место работы:
+employer: ФГБОУ ВО Санкт-Петербургский государственный университет
+api: SuperJob
+----------
+name: Ведущий программист-разработчик (Java Backend Developer)
+area_name: Санкт-Петербург
+url: https://spb.superjob.ru/vakansii/veduschij-programmist-razrabotchik-46924192.html
+salary_from: 200000
+salary_to: 250000
+salary_cur: RUR
+requirement: Обязанности:
+1. Выполнение функций контроля над командами разработки
+2. Написание нового функционала проектов центра
+3. Документация исходного кода и архитектурных решений
+4. Написание unit тестов
+5. Обучения разработчиков проектов
+6. Ревью кода
+7. Анализ кода
+8. Обслуживание и модификация ядра системы
+Требования:
+1. Образование высшее. Специальность по диплому: математик, программист
+2. Опыт работы от 1 года. Приветствуется опыт работы в области блокчейна
+3. Необходимые профессиональные навыки и знания: знание Go, Опыт работы с EVM или Hyperledger fabric, понимание технологий распределенных реестров, опыт работы c git, docker
+4. Знание английского языка – базовый уровень
+5. Личные качества: исполнительность, нацеленность на результат, математический склад ума
+Условия:
+1. Официальное оформление в соответствии с Трудовым законодательством РФ (заключается срочный трудовой договор на 1 год, согласно условиям финансирования проекта), оплачиваются отпускные и больничные
+2. Время работы с 10 до 19 часов. Возможна частично дистанционная работа
+3. Полностью оборудованное рабочее место
+4. Место работы: Санкт-Петербург, Кадетская линия, 1 к 3
+responsibility: Обязанности:
+1. Выполнение функций контроля над командами разработки
+2. Написание нового функционала проектов центра
+3. Документация исходного кода и архитектурных решений
+4. Написание unit тестов
+5. Обучения разработчиков проектов
+6. Ревью кода
+7. Анализ кода
+8. Обслуживание и модификация ядра системы
+Требования:
+1. Образование высшее. Специальность по диплому: математик, программист
+2. Опыт работы от 1 года. Приветствуется опыт работы в области блокчейна
+3. Необходимые профессиональные навыки и знания: знание Go, Опыт работы с EVM или Hyperledger fabric, понимание технологий распределенных реестров, опыт работы c git, docker
+4. Знание английского языка – базовый уровень
+5. Личные качества: исполнительность, нацеленность на результат, математический склад ума
+Условия:
+1. Официальное оформление в соответствии с Трудовым законодательством РФ (заключается срочный трудовой договор на 1 год, согласно условиям финансирования проекта), оплачиваются отпускные и больничные
+2. Время работы с 10 до 19 часов. Возможна частично дистанционная работа
+3. Полностью оборудованное рабочее место
+4. Место работы: Санкт-Петербург, Кадетская линия, 1 к 3
+employer: ФГБОУ ВО Санкт-Петербургский государственный университет
+api: SuperJob
+----------
+name: Программист 1С
+area_name: Балашиха
+url: https://balashiha.superjob.ru/vakansii/programmist-1s-46928611.html
+salary_from: 170000
+salary_to: 0
+salary_cur: RUR
+requirement: Обязанности:
+• Создание инструкций по описанию функционала базы данных 1С
+• Взаимодействие с франчайзи 1С
+• Оперативное исправление выявленных в процессе работы ошибок кода
+• Доработка загрузок данных, отчетов и печатных форм дополнительными отчетами и обработками 1С, документирование разработанного функционала
+• Обмен данными с внешними информационными базами
+• Изучение и дальнейшее сопровождение реализаций бизнес-процессов компании
+• Оптимизация производительности основных бизнес процессов
+• Взаимодействие с сотрудниками компании в пределах своей компетенции
+• Расширение функционала системы механизмом расширений
+Требования:
+• Знание 1С Предприятие 8.3.
+• Знание типовых конфигураций ЗУП, Бухгалтерия предприятия.
+• Знание специализированных конфиругаций (Медицина Больница, Медицина Аптека).
+• Желательно опыт разработки интеграции 1С
+• Оптимизация действующего кода (умение понимать чужой код).
+• Приветствуется знание SQL, PostgreSQL, Java, PHP, XML.
+• Работа с файловой системой, XML, электронной почтой, используя механизмы внутреннего языка 1С.
+• Опыт интеграции информационных систем (XML, COM, WEB, HTTP-сервисы).
+Условия:
+
+
+• Оформление по ТК (трудовая книжка, больничный лист, отпуск);
+• График сменный (индивидуальный подход);
+• Комфортные (аттестованные) рабочие места;
+• Современное медицинское оборудование;
+• Социальный пакет (дисконтное медицинское обслуживание для сотрудников);
+• Сплоченный дружный коллектив;
+• Активная корпоративная культура;
+• Обучение и развитие в компании, возможность совершенствоваться в профессии (в т.ч. участвовать в международных конференциях).
+responsibility: Обязанности:
+• Создание инструкций по описанию функционала базы данных 1С
+• Взаимодействие с франчайзи 1С
+• Оперативное исправление выявленных в процессе работы ошибок кода
+• Доработка загрузок данных, отчетов и печатных форм дополнительными отчетами и обработками 1С, документирование разработанного функционала
+• Обмен данными с внешними информационными базами
+• Изучение и дальнейшее сопровождение реализаций бизнес-процессов компании
+• Оптимизация производительности основных бизнес процессов
+• Взаимодействие с сотрудниками компании в пределах своей компетенции
+• Расширение функционала системы механизмом расширений
+Требования:
+• Знание 1С Предприятие 8.3.
+• Знание типовых конфигураций ЗУП, Бухгалтерия предприятия.
+• Знание специализированных конфиругаций (Медицина Больница, Медицина Аптека).
+• Желательно опыт разработки интеграции 1С
+• Оптимизация действующего кода (умение понимать чужой код).
+• Приветствуется знание SQL, PostgreSQL, Java, PHP, XML.
+• Работа с файловой системой, XML, электронной почтой, используя механизмы внутреннего языка 1С.
+• Опыт интеграции информационных систем (XML, COM, WEB, HTTP-сервисы).
+Условия:
+
+
+• Оформление по ТК (трудовая книжка, больничный лист, отпуск);
+• График сменный (индивидуальный подход);
+• Комфортные (аттестованные) рабочие места;
+• Современное медицинское оборудование;
+• Социальный пакет (дисконтное медицинское обслуживание для сотрудников);
+• Сплоченный дружный коллектив;
+• Активная корпоративная культура;
+• Обучение и развитие в компании, возможность совершенствоваться в профессии (в т.ч. участвовать в международных конференциях).
+employer: Медицинский центр "Доктор Боголюбов"
+api: SuperJob
+----------
+name: Тьютор-педагог
+area_name: Тбилиси
+url: https://tbilisi-ge.superjob.ru/vakansii/tyutor-pedagog-46929061.html
+salary_from: 0
+salary_to: 0
+salary_cur: RUR
+requirement: В школу программирования и робототехники
+Обязанности:
+• Транслирование программ школы по методическим материалам для разных возрастных групп ( от 6 лет до 12 лет);
+• Предоставление регулярной обратной связи о итогах обучения;
+• Участие во внутренних мероприятиях, мастер- классах, лекциях;
+Требования:
+• Готовность работать во второй половине дня с 16.00 до 17.00;
+• Высшее или неоконченное высшее образование в сфере информационных технологий;
+• Профессиональное владение одним из инструментов: HTML, JavaScript + конструктор для создания сайтов Python для программирования в Minecraft;
+• Графические редакторы или собиратели приложений;
+• Java для программирования игр.
+Условия:
+• Гибкий график, возможность совмещения с учебой или основной работой;
+• Методические материалы с подробной инструкцией на каждое занятие мы предоставляем;
+• Заработная плата зависит от колличества проведенных вами занятий. Стоимость урока- 10 долларов.
+responsibility: В школу программирования и робототехники
+Обязанности:
+• Транслирование программ школы по методическим материалам для разных возрастных групп ( от 6 лет до 12 лет);
+• Предоставление регулярной обратной связи о итогах обучения;
+• Участие во внутренних мероприятиях, мастер- классах, лекциях;
+Требования:
+• Готовность работать во второй половине дня с 16.00 до 17.00;
+• Высшее или неоконченное высшее образование в сфере информационных технологий;
+• Профессиональное владение одним из инструментов: HTML, JavaScript + конструктор для создания сайтов Python для программирования в Minecraft;
+• Графические редакторы или собиратели приложений;
+• Java для программирования игр.
+Условия:
+• Гибкий график, возможность совмещения с учебой или основной работой;
+• Методические материалы с подробной инструкцией на каждое занятие мы предоставляем;
+• Заработная плата зависит от колличества проведенных вами занятий. Стоимость урока- 10 долларов.
+employer: Паритет Консалт
+api: SuperJob
+----------
+name: Преподаватель по программированию
+area_name: Коммунарка
+url: https://kommunarka.superjob.ru/vakansii/prepodavatel-po-programmirovaniyu-47136316.html
+salary_from: 0
+salary_to: 0
+salary_cur: RUR
+requirement: Мы с тобой сработаемся, если ты:
+• В том числе студент (3 курс и старше), аспирант или выпускник технического или педагогического вуза
+• Знаешь язык программирования или есть желание обучиться
+• Опыт преподавания в группах от 6 месяцев
+• Умеешь объяснять сложные вещи простыми словами
+• Хочешь развиваться и повышать свою квалификацию
+Что нужно делать?
+• Проводить занятия по программированию для детей
+• Отслеживать результаты обучения
+• Консультировать родителей по вопросам успеваемости детей
+• Продавать курсы на открытом уроке
+• Поддерживать в школе позитивную атмосферу
+• Спустя полноценный учебный год наши юные ученики получают дипломы об окончании курса, и ты будешь участвовать в организации масштабного мероприятия
+Наши условия:
+• Сменный график в развивающейся школе под узнаваемым брендом
+• Бесплатное обучение для успешных кандидатов
+• Обеспечение методическими материалами
+• Конкурентная заработная плата
+• Возможность развиваться и получать новые навыки
+• Атмосфера и команда школы – корпоративная культура отдыха, пицца и отличное настроение: )
+responsibility: Мы с тобой сработаемся, если ты:
+• В том числе студент (3 курс и старше), аспирант или выпускник технического или педагогического вуза
+• Знаешь язык программирования или есть желание обучиться
+• Опыт преподавания в группах от 6 месяцев
+• Умеешь объяснять сложные вещи простыми словами
+• Хочешь развиваться и повышать свою квалификацию
+Что нужно делать?
+• Проводить занятия по программированию для детей
+• Отслеживать результаты обучения
+• Консультировать родителей по вопросам успеваемости детей
+• Продавать курсы на открытом уроке
+• Поддерживать в школе позитивную атмосферу
+• Спустя полноценный учебный год наши юные ученики получают дипломы об окончании курса, и ты будешь участвовать в организации масштабного мероприятия
+Наши условия:
+• Сменный график в развивающейся школе под узнаваемым брендом
+• Бесплатное обучение для успешных кандидатов
+• Обеспечение методическими материалами
+• Конкурентная заработная плата
+• Возможность развиваться и получать новые навыки
+• Атмосфера и команда школы – корпоративная культура отдыха, пицца и отличное настроение: )
+employer: UCHi.RU
+api: SuperJob
+----------
+name: Стажер-программист
+area_name: Одинцово
+url: https://odintsovo.superjob.ru/vakansii/stazher-programmist-47190721.html
+salary_from: 20000
+salary_to: 0
+salary_cur: RUR
+requirement: Обязанности:
+• проводить мастер-классы по программированию для детей
+• участвовать в разработках приложений
+Требования:
+• студент/ка колледжа/ВУЗа по направлению Информационных технологий 
+• желание развиваться 
+• знание хотя бы одного языка программирования (Python, С++, C#, Java)
+• владение англ.яз хотя бы на базовом уровне
+• умение общаться с детьми
+Условия:
+• неполный рабочий день, возможность совмещать с учебой
+• оплата за отработанные часы
+• трудоустройство по ТК РФ
+responsibility: Обязанности:
+• проводить мастер-классы по программированию для детей
+• участвовать в разработках приложений
+Требования:
+• студент/ка колледжа/ВУЗа по направлению Информационных технологий 
+• желание развиваться 
+• знание хотя бы одного языка программирования (Python, С++, C#, Java)
+• владение англ.яз хотя бы на базовом уровне
+• умение общаться с детьми
+Условия:
+• неполный рабочий день, возможность совмещать с учебой
+• оплата за отработанные часы
+• трудоустройство по ТК РФ
+employer: ЦЕНТР ИНТЕЛЛЕКТУАЛЬНОГО РАЗВИТИЯ
+api: SuperJob
+----------
+name: Программист
+area_name: Электросталь
+url: https://elektrostal.superjob.ru/vakansii/programmist-47267275.html
+salary_from: 50000
+salary_to: 0
+salary_cur: RUR
+requirement: Тьютор (Наставник) КиберШколы - это престижно!
+Уже сегодня КиберШкола одно из самых престижных мест развития для современных детей.
+Обязанности:
+- Транслирование программ КиберШколы по методическим пособиям и передача практического опыта для нового it-поколения от 6 до 14 лет.
+- Участие в промо-мероприятиях и конференциях.
+Требования:
+- Знание базовых основ компьютерной грамотности;
+- Знание алгоритмизации;
+- Знание основ языков программирования;
+- Умение разбираться с методикой и платформами в соответствии с инструкцией;
+- Знание одного или нескольких языков программирования;
+- Высшее или неоконченное высшее образование в сфере IT ;
+- Обучаемость, желание получать новые знания.
+Условия:
+Гибкий график, возможность совмещения с основной работой;
+Команда молодых профессионалов, которая участвует в создании нового интеллектуального общества;
+Заработная плата, зависит от учебной нагрузки и количества проведенных мероприятий.
+Рост вместе с компанией. Участие в мероприятиях федерального и международного уровня
+- Время работы: выходные дни , будни вечернее время.
+- Условия оплаты: 500 до 1200р/час
+- Работа в перспективной и развивающейся компании международного уровня.
+С нами интересно и престижно:
+- Кибершкола имеет международный формат, наши офисы расположены в России и Европе, ежемесячно открываются филиалы;
+- У нас прогрессивные методики обучения и продаж, наши педагоги - это лучшие специалисты из ведущих мировых и федеральных IT компаний и университетов;
+- Мы имеем высокий спрос на рынке образовательных услуг и не имеем конкурентов на рынке, благодаря методикам, сервису и автоматизации процессов.
+responsibility: Тьютор (Наставник) КиберШколы - это престижно!
+Уже сегодня КиберШкола одно из самых престижных мест развития для современных детей.
+Обязанности:
+- Транслирование программ КиберШколы по методическим пособиям и передача практического опыта для нового it-поколения от 6 до 14 лет.
+- Участие в промо-мероприятиях и конференциях.
+Требования:
+- Знание базовых основ компьютерной грамотности;
+- Знание алгоритмизации;
+- Знание основ языков программирования;
+- Умение разбираться с методикой и платформами в соответствии с инструкцией;
+- Знание одного или нескольких языков программирования;
+- Высшее или неоконченное высшее образование в сфере IT ;
+- Обучаемость, желание получать новые знания.
+Условия:
+Гибкий график, возможность совмещения с основной работой;
+Команда молодых профессионалов, которая участвует в создании нового интеллектуального общества;
+Заработная плата, зависит от учебной нагрузки и количества проведенных мероприятий.
+Рост вместе с компанией. Участие в мероприятиях федерального и международного уровня
+- Время работы: выходные дни , будни вечернее время.
+- Условия оплаты: 500 до 1200р/час
+- Работа в перспективной и развивающейся компании международного уровня.
+С нами интересно и престижно:
+- Кибершкола имеет международный формат, наши офисы расположены в России и Европе, ежемесячно открываются филиалы;
+- У нас прогрессивные методики обучения и продаж, наши педагоги - это лучшие специалисты из ведущих мировых и федеральных IT компаний и университетов;
+- Мы имеем высокий спрос на рынке образовательных услуг и не имеем конкурентов на рынке, благодаря методикам, сервису и автоматизации процессов.
+employer: Коростелева Татьяна Олеговна
+api: SuperJob
+----------
+name: Разработчик мобильных приложений (Kotlin / Flutter)
+area_name: Вологда
+url: https://vologda.superjob.ru/vakansii/razrabotchik-mobilnyh-prilozhenij-47341481.html
+salary_from: 130000
+salary_to: 0
+salary_cur: RUR
+requirement: Ищем в команду проекта ТелеМедХаб разработчика кроссплатформенных приложений (Kotlin/Flutter). Рассматриваем кандидатов с различной степенью навыков и опыта. Если опыта немного, но есть желание - дадим возможность подтянуть навыки под руководством опытных разработчиков. 
+Что нужно:
+- Опыт программирования от 1 года (kotlin, dart, java, python, JS, etc.)
+- Понимание базовых принципов программирования
+- Понимание принципов REST
+- Опыт работы с Git
+Желательно:
+- Опыт разработки нативных на android (java, kotlin) или ios (swift, objective C) будет большим плюсом
+- Опыт работы с клиент-серверными приложениями
+- Понимание основных архитектур приложений (MVVM, MVP)
+- Понимание основных принципов и паттернов разработки (Clean, SOLID, TDD)
+- Умение писать Unit-тесты
+От нас:
+- Участие в интересном и перспективном проекте
+- Реальные актуальные задачи
+- Сильная команда
+- Возможность быстро вырасти до middle/senior mobile developer
+- Гибкий график без привязки к конкретной локации
+- Достойная оплата труда
+responsibility: Ищем в команду проекта ТелеМедХаб разработчика кроссплатформенных приложений (Kotlin/Flutter). Рассматриваем кандидатов с различной степенью навыков и опыта. Если опыта немного, но есть желание - дадим возможность подтянуть навыки под руководством опытных разработчиков. 
+Что нужно:
+- Опыт программирования от 1 года (kotlin, dart, java, python, JS, etc.)
+- Понимание базовых принципов программирования
+- Понимание принципов REST
+- Опыт работы с Git
+Желательно:
+- Опыт разработки нативных на android (java, kotlin) или ios (swift, objective C) будет большим плюсом
+- Опыт работы с клиент-серверными приложениями
+- Понимание основных архитектур приложений (MVVM, MVP)
+- Понимание основных принципов и паттернов разработки (Clean, SOLID, TDD)
+- Умение писать Unit-тесты
+От нас:
+- Участие в интересном и перспективном проекте
+- Реальные актуальные задачи
+- Сильная команда
+- Возможность быстро вырасти до middle/senior mobile developer
+- Гибкий график без привязки к конкретной локации
+- Достойная оплата труда
+employer: ТЕЛЕМЕДХАБ
+api: SuperJob
+----------
+name: Разработчик мобильных приложений (Kotlin / Flutter)
+area_name: Череповец
+url: https://cherepovets.superjob.ru/vakansii/razrabotchik-mobilnyh-prilozhenij-47341482.html
+salary_from: 130000
+salary_to: 0
+salary_cur: RUR
+requirement: Ищем в команду проекта ТелеМедХаб разработчика кроссплатформенных приложений (Kotlin/Flutter). Рассматриваем кандидатов с различной степенью навыков и опыта. Если опыта немного, но есть желание - дадим возможность подтянуть навыки под руководством опытных разработчиков. 
+Что нужно:
+- Опыт программирования от 1 года (kotlin, dart, java, python, JS, etc.)
+- Понимание базовых принципов программирования
+- Понимание принципов REST
+- Опыт работы с Git
+Желательно:
+- Опыт разработки нативных на android (java, kotlin) или ios (swift, objective C) будет большим плюсом
+- Опыт работы с клиент-серверными приложениями
+- Понимание основных архитектур приложений (MVVM, MVP)
+- Понимание основных принципов и паттернов разработки (Clean, SOLID, TDD)
+- Умение писать Unit-тесты
+От нас:
+- Участие в интересном и перспективном проекте
+- Реальные актуальные задачи
+- Сильная команда
+- Возможность быстро вырасти до middle/senior mobile developer
+- Гибкий график без привязки к конкретной локации
+- Достойная оплата труда
+responsibility: Ищем в команду проекта ТелеМедХаб разработчика кроссплатформенных приложений (Kotlin/Flutter). Рассматриваем кандидатов с различной степенью навыков и опыта. Если опыта немного, но есть желание - дадим возможность подтянуть навыки под руководством опытных разработчиков. 
+Что нужно:
+- Опыт программирования от 1 года (kotlin, dart, java, python, JS, etc.)
+- Понимание базовых принципов программирования
+- Понимание принципов REST
+- Опыт работы с Git
+Желательно:
+- Опыт разработки нативных на android (java, kotlin) или ios (swift, objective C) будет большим плюсом
+- Опыт работы с клиент-серверными приложениями
+- Понимание основных архитектур приложений (MVVM, MVP)
+- Понимание основных принципов и паттернов разработки (Clean, SOLID, TDD)
+- Умение писать Unit-тесты
+От нас:
+- Участие в интересном и перспективном проекте
+- Реальные актуальные задачи
+- Сильная команда
+- Возможность быстро вырасти до middle/senior mobile developer
+- Гибкий график без привязки к конкретной локации
+- Достойная оплата труда
+employer: ТЕЛЕМЕДХАБ
+api: SuperJob
+----------
+name: Руководитель отдела разработки имитационных моделей AnyLogic
+area_name: Москва
+url: https://www.superjob.ru/vakansii/rukovoditel-otdela-razrabotki-imitacionnyh-modelej-anylogic-47351827.html
+salary_from: 350000
+salary_to: 0
+salary_cur: RUR
+requirement: Обязанности:
+• 
+руководство отделом разработки имитационных моделей в среде AnyLogiс в области производства, логистики и цепей поставок
+• 
+проектирование архитектуры сложных имитационных моделей 
+• 
+планирование разработки и оценка трудоемкости
+• 
+разработка сложных алгоритмов на Java
+• 
+организация тестирования и сопровождения разрабатываемых моделей
+
+• 
+разработка и презентация концептов имитационных моделей
+Требования:
+• 
+высшее образование (математическое, техническое или экономическое), опыт работы на аналогичной должности, либо релевантный не менее 3 лет, наличие портфолио завершенных проектов по разработке и внедрению имитационных моделей в AnyLogic
+• 
+знание Java, SQL, AnyLogic Cloud API , BPMN
+• 
+знание ООП/паттернов проектирования/интеграции, основных структур и алгоритмов обработки данных, методов численной оптимизации
+
+• 
+знание методологии проектирования, разработки и тестирования программного обеспечения, владение средствами Java-разработки, напр. Idea/Eclipse/NetBeans
+• 
+владение средствами BI, MS Project или аналоги, навыки планирования и управления ресурсами
+• 
+свободный английский
+Условия:
+• 
+конкурентная заработная плата, определяемая по результатам собеседования
+• 
+официальное трудоустройство
+
+• работа в стабильной, динамично развивающейся компании, являющейся одним из лидеров рынка имитационного моделирования и одним из ведущих партнеров Энилоджик в России
+• 
+компания аккредитована в Минцифры
+
+• 
+гибкий график, удаленная работа
+responsibility: Обязанности:
+• 
+руководство отделом разработки имитационных моделей в среде AnyLogiс в области производства, логистики и цепей поставок
+• 
+проектирование архитектуры сложных имитационных моделей 
+• 
+планирование разработки и оценка трудоемкости
+• 
+разработка сложных алгоритмов на Java
+• 
+организация тестирования и сопровождения разрабатываемых моделей
+
+• 
+разработка и презентация концептов имитационных моделей
+Требования:
+• 
+высшее образование (математическое, техническое или экономическое), опыт работы на аналогичной должности, либо релевантный не менее 3 лет, наличие портфолио завершенных проектов по разработке и внедрению имитационных моделей в AnyLogic
+• 
+знание Java, SQL, AnyLogic Cloud API , BPMN
+• 
+знание ООП/паттернов проектирования/интеграции, основных структур и алгоритмов обработки данных, методов численной оптимизации
+
+• 
+знание методологии проектирования, разработки и тестирования программного обеспечения, владение средствами Java-разработки, напр. Idea/Eclipse/NetBeans
+• 
+владение средствами BI, MS Project или аналоги, навыки планирования и управления ресурсами
+• 
+свободный английский
+Условия:
+• 
+конкурентная заработная плата, определяемая по результатам собеседования
+• 
+официальное трудоустройство
+
+• работа в стабильной, динамично развивающейся компании, являющейся одним из лидеров рынка имитационного моделирования и одним из ведущих партнеров Энилоджик в России
+• 
+компания аккредитована в Минцифры
+
+• 
+гибкий график, удаленная работа
+employer: ТБС Консалтинг
+api: SuperJob
+----------
+name: Программист C#
+area_name: Москва
+url: https://www.superjob.ru/vakansii/programmist-c-11203007.html
+salary_from: 120000
+salary_to: 150000
+salary_cur: RUR
+requirement: Обязанности:
+- Разработка приложений и их сопровождение.
+- Создание и оптимизация SQL запросов
+- Администрирование СУБД под созданные приложения
+
+
+Требования:
+- Visual Studio C#; .Net Core; Python; PHP, Java, Kotlin
+- CentOS; Windows Server;
+- MySQL; PostgreSQL
+
+
+Условия:
+Собеседование, тестирование, испытательный срок. График работы, дни недели: Пнд. - Птн,
+Время работы: с 8-00 до 17-00; с 9-00 до 18-00; с 10-00 до 19-00; с 11-00 до 20-00.
+responsibility: Обязанности:
+- Разработка приложений и их сопровождение.
+- Создание и оптимизация SQL запросов
+- Администрирование СУБД под созданные приложения
+
+
+Требования:
+- Visual Studio C#; .Net Core; Python; PHP, Java, Kotlin
+- CentOS; Windows Server;
+- MySQL; PostgreSQL
+
+
+Условия:
+Собеседование, тестирование, испытательный срок. График работы, дни недели: Пнд. - Птн,
+Время работы: с 8-00 до 17-00; с 9-00 до 18-00; с 10-00 до 19-00; с 11-00 до 20-00.
+employer: Народный доверительный банк
+api: SuperJob
+----------
+name: Педагог дополнительного образования (Основы мобильной робототехники)
+area_name: Санкт-Петербург
+url: https://spb.superjob.ru/vakansii/pedagog-dopolnitelnogo-obrazovaniya-38642586.html
+salary_from: 0
+salary_to: 0
+salary_cur: RUR
+requirement: Обязанности:
+• 
+ Преподавание по программам дополнительного образования по направлениям:
+ Робототехника (контроллеры Arduino, MyRio, Raspberry Pi),
+ Программирование (Scratch, Python, C++, Java), 3D-моделирование (Fusion 360, Компас 3D),
+ Кибербезопасность,
+ Аэротехнологии (Геоскан Пионер),
+ Интернет вещей и электроника (Arduino);
+
+• 
+Организация учебной деятельности обучающихся по освоению учебных курсов дополнительного образования;
+• 
+Педагогический контроль и оценка освоения дополнительных образовательных программ в ходе промежуточной и итоговой аттестации;
+• 
+Разработка научно-методических и учебно-методических материалов, обеспечивающих реализацию программ дополнительного образования;
+• 
+Организация воспитательной работы в рамках реализуемых программ;
+• 
+Участие в конкурсах, фестивалях др. творческих мероприятиях муниципального и всероссийского уровней. 
+Требования:
+• 
+ Высшее педагогическое образование - бакалавриат, специалитет (магистратура),технический профиль или специальность;
+
+
+• 
+Курсы повышения квалификации в области профессионального образования(сертификаты, удостоверения);
+• 
+Опыт работы по профилю от 1 года;
+• 
+Опыт разработки учебно-методических материалов и контрольно-оценочных средств к учебным программам;
+• 
+Уверенный пользователь ПК, навык работы со спец. ПО в рамках преподаваемого курса;
+• 
+Отсутствие ограничений на занятие педагогической деятельностью, установленных законодательством Российской Федерации;
+• 
+Грамотность, исполнительность, коммуникабельность, креативность, ориентация на результат. 
+
+Условия:
+• 
+-Оформление по ТК РФ;
+ 
+-Работа в отделении дополнительного образования детей;
+ 
+-Не полный рабочий день с 15.30 до 18.30
+ 
+-Начало работы с сентября 2023 года
+responsibility: Обязанности:
+• 
+ Преподавание по программам дополнительного образования по направлениям:
+ Робототехника (контроллеры Arduino, MyRio, Raspberry Pi),
+ Программирование (Scratch, Python, C++, Java), 3D-моделирование (Fusion 360, Компас 3D),
+ Кибербезопасность,
+ Аэротехнологии (Геоскан Пионер),
+ Интернет вещей и электроника (Arduino);
+
+• 
+Организация учебной деятельности обучающихся по освоению учебных курсов дополнительного образования;
+• 
+Педагогический контроль и оценка освоения дополнительных образовательных программ в ходе промежуточной и итоговой аттестации;
+• 
+Разработка научно-методических и учебно-методических материалов, обеспечивающих реализацию программ дополнительного образования;
+• 
+Организация воспитательной работы в рамках реализуемых программ;
+• 
+Участие в конкурсах, фестивалях др. творческих мероприятиях муниципального и всероссийского уровней. 
+Требования:
+• 
+ Высшее педагогическое образование - бакалавриат, специалитет (магистратура),технический профиль или специальность;
+
+
+• 
+Курсы повышения квалификации в области профессионального образования(сертификаты, удостоверения);
+• 
+Опыт работы по профилю от 1 года;
+• 
+Опыт разработки учебно-методических материалов и контрольно-оценочных средств к учебным программам;
+• 
+Уверенный пользователь ПК, навык работы со спец. ПО в рамках преподаваемого курса;
+• 
+Отсутствие ограничений на занятие педагогической деятельностью, установленных законодательством Российской Федерации;
+• 
+Грамотность, исполнительность, коммуникабельность, креативность, ориентация на результат. 
+
+Условия:
+• 
+-Оформление по ТК РФ;
+ 
+-Работа в отделении дополнительного образования детей;
+ 
+-Не полный рабочий день с 15.30 до 18.30
+ 
+-Начало работы с сентября 2023 года
+employer: СПБ ГБ ПОУ "Малоохтинский колледж"
+api: SuperJob
+----------
+name: Инженер Программист
+area_name: Москва
+url: https://www.superjob.ru/vakansii/inzhener-programmist-43147987.html
+salary_from: 0
+salary_to: 0
+salary_cur: RUR
+requirement: Обязанности:
+• автоматизация процессов обработки и распространения данных потребителям с космических аппаратов;
+
+• программирование на языке Python (или С#, C++), приветствуется иметь навыки написания кода на других языках программирования;
+• разработка программного обеспечения на базе СУБД PostgreSQL;
+
+• поиск и устранение неисправностей в существующем программном обеспечении;
+• работа с ОС Linux (CentOS, openSUSE и др.), Asta linux, Windows (7,10, server 2012 – 2019);
+
+• разработка документации по ЕСПД и ЕСКД;
+• участие в монтажных работах по СКС (редко);
+• участие в установке и развертывании серверного оборудования, систем хранения данных, сетевого оборудования (редко);
+• участие в эксплуатации и развитии ИТ-инфраструктуры организации;
+
+• администрирование видеоконференцоборудования (работа по графику).
+
+Требования:
+
+• 
+образование высшее (допускается обучение в магистратуре, вечернее отделение);
+• 
+работа с ОС Linux (CentOS, openSUSE и др.), Asta linux, Windows (7,10, server 2012 – 2019) на уровне администратора;
+• 
+Обязательно знание:
+• 
+основы протоколов передачи данных по ЛВС;
+• 
+языка программирования python (рассмотрим кандидатов со знанием С++, Java готовых программировать на python);
+• 
+СУБД PostgreSQL (и/или MySQL);
+• 
+иметь общее представление работы с системами виртуализации (hyper-v; vmware; контейнеры docker и др.); 
+
+• 
+читать техническую документацию на английском языке;
+• 
+автоматизировать рутиные задачи.
+Условия:
+• Работа в центре Москвы (м. Краснопресненская).
+
+• график работы 5/2 с 9 до 18 часов;
+• Постоянная работа;
+• Дружная профессиональная команда;
+• Оформление по ТК РФ;
+• Интересные проекты;
+• Возможности карьерного роста (Компания постоянно развивается и растёт).
+• Уровень зарплаты обсуждается с успешным кандидатом.
+Уважаемые соискатели,
+просьба указывать ожидаемый уровень З/П на руки в сопроводительном письме!
+responsibility: Обязанности:
+• автоматизация процессов обработки и распространения данных потребителям с космических аппаратов;
+
+• программирование на языке Python (или С#, C++), приветствуется иметь навыки написания кода на других языках программирования;
+• разработка программного обеспечения на базе СУБД PostgreSQL;
+
+• поиск и устранение неисправностей в существующем программном обеспечении;
+• работа с ОС Linux (CentOS, openSUSE и др.), Asta linux, Windows (7,10, server 2012 – 2019);
+
+• разработка документации по ЕСПД и ЕСКД;
+• участие в монтажных работах по СКС (редко);
+• участие в установке и развертывании серверного оборудования, систем хранения данных, сетевого оборудования (редко);
+• участие в эксплуатации и развитии ИТ-инфраструктуры организации;
+
+• администрирование видеоконференцоборудования (работа по графику).
+
+Требования:
+
+• 
+образование высшее (допускается обучение в магистратуре, вечернее отделение);
+• 
+работа с ОС Linux (CentOS, openSUSE и др.), Asta linux, Windows (7,10, server 2012 – 2019) на уровне администратора;
+• 
+Обязательно знание:
+• 
+основы протоколов передачи данных по ЛВС;
+• 
+языка программирования python (рассмотрим кандидатов со знанием С++, Java готовых программировать на python);
+• 
+СУБД PostgreSQL (и/или MySQL);
+• 
+иметь общее представление работы с системами виртуализации (hyper-v; vmware; контейнеры docker и др.); 
+
+• 
+читать техническую документацию на английском языке;
+• 
+автоматизировать рутиные задачи.
+Условия:
+• Работа в центре Москвы (м. Краснопресненская).
+
+• график работы 5/2 с 9 до 18 часов;
+• Постоянная работа;
+• Дружная профессиональная команда;
+• Оформление по ТК РФ;
+• Интересные проекты;
+• Возможности карьерного роста (Компания постоянно развивается и растёт).
+• Уровень зарплаты обсуждается с успешным кандидатом.
+Уважаемые соискатели,
+просьба указывать ожидаемый уровень З/П на руки в сопроводительном письме!
+employer: ФГБУ "Научно-исследовательский центр космической гидрометеорологии "Планета"
+api: SuperJob
+----------
+name: Программист микроконтроллеров / Инженер-схемотехник / Инженер-программист С/С++
+area_name: Санкт-Петербург
+url: https://spb.superjob.ru/vakansii/programmist-mikrokontrollerov-43157657.html
+salary_from: 150000
+salary_to: 500000
+salary_cur: RUR
+requirement: Требования:
+
+
+Программирование на С, С++ для микроконтроллеров фирм Renesas,ST,Nordic,Vango и др.
+
+Только Cortex-M хх.
+Для компьютеров, как минимум потребуется написание тестовых программ на Java или С#. Желательно знание схемотехники и умение пользоваться САПР электронных схем, например, PCAD, Altium.
+ Разработка ПО для контроллеров АСУ ТП и программирование контроллеров АСУ ТП - не интересует.
+
+
+Условия:
+
+
+Условия оговариваются на собеседовании. 
+
+Оформление по ТК.
+Наша компания аккредитована в Министерстве цифрового развития, связи и массовых коммуникаций Российской Федерации 
+
+Высокая оплата труда, премирование за досрочное выполнение заданий.
+Уровень оплаты труда будет установлен после собеседования.
+responsibility: Требования:
+
+
+Программирование на С, С++ для микроконтроллеров фирм Renesas,ST,Nordic,Vango и др.
+
+Только Cortex-M хх.
+Для компьютеров, как минимум потребуется написание тестовых программ на Java или С#. Желательно знание схемотехники и умение пользоваться САПР электронных схем, например, PCAD, Altium.
+ Разработка ПО для контроллеров АСУ ТП и программирование контроллеров АСУ ТП - не интересует.
+
+
+Условия:
+
+
+Условия оговариваются на собеседовании. 
+
+Оформление по ТК.
+Наша компания аккредитована в Министерстве цифрового развития, связи и массовых коммуникаций Российской Федерации 
+
+Высокая оплата труда, премирование за досрочное выполнение заданий.
+Уровень оплаты труда будет установлен после собеседования.
+employer: Петербургский завод измерительных приборов
+api: SuperJob
+----------
+name: Инженер-радиоэлектронщик 1 категории
+area_name: Москва
+url: https://www.superjob.ru/vakansii/inzhener-radioelektronschik-1-kategorii-43148990.html
+salary_from: 100000
+salary_to: 0
+salary_cur: RUR
+requirement: Обязанности:
+
+ - участие в проектировании устройств по ТЗ
+- написание программ для микроконтроллеров различных производителей (Atmel, STM32 и др.)
+- написание прикладных программ для ПК
+- разработка и согласование технических заданий и технических условий. 
+
+Требования:
+ - высшее (техническое) образование
+- знание С++, Python, Java
+- опыт работы с контроллерами Atmel, Cortex
+- приветствуются знания схемотехники, оптоэлектроники, умение паять и т.п. 
+
+Условия:
+- работникам ПАО "Радиофизика" предоставляется право на отсрочку от призыва на военную службу по мобилизации;
+- стабильная, официальная заработная плата;
+- периодическая индексация заработной платы;
+- периодический медицинский осмотр;
+- соц. пакет: дополнительное медицинское обслуживание;
+- ст. м. Планерная, ул. Героев Панфиловцев, д. 10 (шаговая доступность от станции метро).
+responsibility: Обязанности:
+
+ - участие в проектировании устройств по ТЗ
+- написание программ для микроконтроллеров различных производителей (Atmel, STM32 и др.)
+- написание прикладных программ для ПК
+- разработка и согласование технических заданий и технических условий. 
+
+Требования:
+ - высшее (техническое) образование
+- знание С++, Python, Java
+- опыт работы с контроллерами Atmel, Cortex
+- приветствуются знания схемотехники, оптоэлектроники, умение паять и т.п. 
+
+Условия:
+- работникам ПАО "Радиофизика" предоставляется право на отсрочку от призыва на военную службу по мобилизации;
+- стабильная, официальная заработная плата;
+- периодическая индексация заработной платы;
+- периодический медицинский осмотр;
+- соц. пакет: дополнительное медицинское обслуживание;
+- ст. м. Планерная, ул. Героев Панфиловцев, д. 10 (шаговая доступность от станции метро).
+employer: Радиофизика
+api: SuperJob
+----------
+name: Преподаватель профессиональных модулей
+area_name: Санкт-Петербург
+url: https://spb.superjob.ru/vakansii/prepodavatel-professionalnyh-modulej-44019071.html
+salary_from: 50000
+salary_to: 0
+salary_cur: RUR
+requirement: Обязанности:
+• Реализация (проведение занятий) профессиональных модулей (разработка, тестирование, ревьюирование программных продуктов; интеграция программных модулей) по специальности «Информационные системы и программирование» 
+• Составлять тематический план работы по предмету на учебную четверть и рабочий план на каждый лекционное и практическое занятие.
+• Проведение с учащимися установленное учебным планом количество контрольных и практических работ.
+Требования:
+• знания: - языки программирования: С+, С #, Java, Питон, Облачные технологии, SQL; ,
+- организация и ведение баз данных; - web-дизайн; - технологии проектирования и создания информационных систем; 
+ 
+- основы верификации и аттестации ПО; - основные подходы к интегрированию программных модулей; 
+ 
+- принципы совместимости оборудования и ПО; - клиент-серверную архитектуру; 
+ 
+- основы информационной безопасности; 
+
+• умения: Создавать программные приложения, в т.ч. для мобильных устройств; читать и создавать проектную документацию и документацию сопровождения программных продуктов; осуществлять интеграцию и отладку программных модулей; использовать методы и технологии тестирования и ревьюирования кода и проектной документации; 
+• наличие удостоверения о повышении квалификации (по направлению методики преподавания) или квалификации по диплому «педагог»
+• 
+наличие справки об отсутствии судимости; личной медицинской книжки 
+• 
+опыт практической или преподавательской работы от 1 года
+• 
+ Уважаемые кандидаты! Просьба присылать развернутое резюме (с описанием опыта работы по конкретному направлению) 
+
+Условия:
+• 
+Трудоустройство в бюджетной образовательной организации; педагогическая нагрузка – 720 часов год; 6-дневная рабочая неделя; ежегодный оплачиваемый отпуск из расчета 56 календарных дней за отработанный учебный год.
+• Участие в проведении демонстрационного экзамена
+responsibility: Обязанности:
+• Реализация (проведение занятий) профессиональных модулей (разработка, тестирование, ревьюирование программных продуктов; интеграция программных модулей) по специальности «Информационные системы и программирование» 
+• Составлять тематический план работы по предмету на учебную четверть и рабочий план на каждый лекционное и практическое занятие.
+• Проведение с учащимися установленное учебным планом количество контрольных и практических работ.
+Требования:
+• знания: - языки программирования: С+, С #, Java, Питон, Облачные технологии, SQL; ,
+- организация и ведение баз данных; - web-дизайн; - технологии проектирования и создания информационных систем; 
+ 
+- основы верификации и аттестации ПО; - основные подходы к интегрированию программных модулей; 
+ 
+- принципы совместимости оборудования и ПО; - клиент-серверную архитектуру; 
+ 
+- основы информационной безопасности; 
+
+• умения: Создавать программные приложения, в т.ч. для мобильных устройств; читать и создавать проектную документацию и документацию сопровождения программных продуктов; осуществлять интеграцию и отладку программных модулей; использовать методы и технологии тестирования и ревьюирования кода и проектной документации; 
+• наличие удостоверения о повышении квалификации (по направлению методики преподавания) или квалификации по диплому «педагог»
+• 
+наличие справки об отсутствии судимости; личной медицинской книжки 
+• 
+опыт практической или преподавательской работы от 1 года
+• 
+ Уважаемые кандидаты! Просьба присылать развернутое резюме (с описанием опыта работы по конкретному направлению) 
+
+Условия:
+• 
+Трудоустройство в бюджетной образовательной организации; педагогическая нагрузка – 720 часов год; 6-дневная рабочая неделя; ежегодный оплачиваемый отпуск из расчета 56 календарных дней за отработанный учебный год.
+• Участие в проведении демонстрационного экзамена
+employer: Санкт-Петербургский техникум библиотечных и информационных технологий
+api: SuperJob
+----------
+name: Педагог дополнительного образования технической направленности
+area_name: Санкт-Петербург
+url: https://spb.superjob.ru/vakansii/pedagog-dopolnitelnogo-obrazovaniya-tehnicheskoj-napravlennosti-45432173.html
+salary_from: 0
+salary_to: 0
+salary_cur: RUR
+requirement: Что будет входить в ваши обязанности:
+ — Проводить занятия по одной или нескольким программам: программирование (Python, Scratch, Java, WEB программирование), робототехника, альтернативная энергетика, VR/AR разработка). 
+Все зависит от ваших знаний, навыков, умений и желания развиваться!
+— Участвовать в организации и проведении мероприятия (интеллектуальные игры, творческие занятия, лекции, экскурсии, конкурсы, соревнования) 
+— Своевременно выполнять поручения руководителя.
+Что получаете вы, работая с нами:
+— Стабильная заработная плата, выплаты 2 раза в месяц, без задержек
+ —Возможность бесплатного обучения и повышения квалификации
+ — Работа по готовым программам
+— Полную занятость или частичную занятость, возможность совмещать с учебой
+ — Удобное и оборудованное современное рабочее место
+ — Дружный, весёлый коллектив
+ — Лояльное, понимающее, но требовательное руководство. 
+
+
+ Вам точно к нам если:
+— Вы энергичный, ответственный, дисциплинированный, позитивный и любящий детей человек.
+— Вы не просто преподаватель, а наставник для наших учеников.
+ — Вы лёгкий на подъём и готовы развиваться в профессиональном плане
+Наши пожелания к вам:
+ — Высшее или среднее профессиональное образование или Вы студент(ка) 3 курса ВУЗа (педагогика, психология, техническое — приветствуется и будет плюсом)
+
+
+График работы и организационные моменты:
+- График работы зависит от количества часов, время начала занятий с 15:00-16:00 до 19:00-20:00.
+ - Испытательный срок 3 месяца.
+Про зарплату:
+- Уровень зарплаты зависит от количества часов, которое Вы готовы вести
+responsibility: Что будет входить в ваши обязанности:
+ — Проводить занятия по одной или нескольким программам: программирование (Python, Scratch, Java, WEB программирование), робототехника, альтернативная энергетика, VR/AR разработка). 
+Все зависит от ваших знаний, навыков, умений и желания развиваться!
+— Участвовать в организации и проведении мероприятия (интеллектуальные игры, творческие занятия, лекции, экскурсии, конкурсы, соревнования) 
+— Своевременно выполнять поручения руководителя.
+Что получаете вы, работая с нами:
+— Стабильная заработная плата, выплаты 2 раза в месяц, без задержек
+ —Возможность бесплатного обучения и повышения квалификации
+ — Работа по готовым программам
+— Полную занятость или частичную занятость, возможность совмещать с учебой
+ — Удобное и оборудованное современное рабочее место
+ — Дружный, весёлый коллектив
+ — Лояльное, понимающее, но требовательное руководство. 
+
+
+ Вам точно к нам если:
+— Вы энергичный, ответственный, дисциплинированный, позитивный и любящий детей человек.
+— Вы не просто преподаватель, а наставник для наших учеников.
+ — Вы лёгкий на подъём и готовы развиваться в профессиональном плане
+Наши пожелания к вам:
+ — Высшее или среднее профессиональное образование или Вы студент(ка) 3 курса ВУЗа (педагогика, психология, техническое — приветствуется и будет плюсом)
+
+
+График работы и организационные моменты:
+- График работы зависит от количества часов, время начала занятий с 15:00-16:00 до 19:00-20:00.
+ - Испытательный срок 3 месяца.
+Про зарплату:
+- Уровень зарплаты зависит от количества часов, которое Вы готовы вести
+employer: ГБОУ Гимназия № 642 "Земля и Вселенная"
+api: SuperJob
+----------
+name: Менеджер по продажам курсов в сфере IT и Digital в Synergy Academy
+area_name: Москва
+url: https://www.superjob.ru/vakansii/menedzher-po-prodazham-kursov-v-sfere-it-i-digital-v-synergy-academy-46104031.html
+salary_from: 80000
+salary_to: 0
+salary_cur: RUR
+requirement: Synergy Academy — один из масштабных проектов Корпорации Синергия.
+Synergy Academy – это дополнительное профессиональное образование по самым востребованным профессиям в сфере IT и Digital, таким как SMM-маркетолог, project-менеджер, SEO-специалист, интернет-маркетолог, PHP-разработчик, копирайтер, Java-разработчик, Data Scientist, таргетолог, Phython-разработчик.
+Обязанности:
+• Продажа самых популярных курсов в сфере IT и Digital;
+• Работа по входящим заявкам (рекламные каналы) и теплой базе;
+• Консультирование клиентов по телефону; 
+• Ведение базы и оформление сделок в CRM;
+• Выполнение личного плана продаж;
+• Оформление сделок в CRM системе;
+• Ведение отчетности по своей работе.
+Требования:
+• Опыт в сфере информационных продуктов;
+• Опыт дистанционных продаж и знание техники продаж;
+• Грамотная речь;
+• Стрессоустойчивость, уверенность в себе, отсутствие боязни отказа, готовность к постоянным телефонным звонкам;
+• Активность, энергичность, целеустремленность, системный подход.
+Условия:
+• Заработная плата: оклад 55 000 на руки+ % от продаж;
+• Совокупный доход в месяц от 80 000 руб.;
+• Официальное оформление по ТК РФ с первого дня работы;
+• График работы - 5/2 с 9.00-18.00 ч.;
+• Сотрудникам компании предоставляется:- возможность посещать тренинги и семинары ведущих российских и мировых спикеров за счет компании;
+• возможность обучения в собственной Автошколе компании и посещение спортивного клуба с солидной корпоративной скидкой;
+• Работа в офисе: станция метро Сокол (пешая доступность).
+responsibility: Synergy Academy — один из масштабных проектов Корпорации Синергия.
+Synergy Academy – это дополнительное профессиональное образование по самым востребованным профессиям в сфере IT и Digital, таким как SMM-маркетолог, project-менеджер, SEO-специалист, интернет-маркетолог, PHP-разработчик, копирайтер, Java-разработчик, Data Scientist, таргетолог, Phython-разработчик.
+Обязанности:
+• Продажа самых популярных курсов в сфере IT и Digital;
+• Работа по входящим заявкам (рекламные каналы) и теплой базе;
+• Консультирование клиентов по телефону; 
+• Ведение базы и оформление сделок в CRM;
+• Выполнение личного плана продаж;
+• Оформление сделок в CRM системе;
+• Ведение отчетности по своей работе.
+Требования:
+• Опыт в сфере информационных продуктов;
+• Опыт дистанционных продаж и знание техники продаж;
+• Грамотная речь;
+• Стрессоустойчивость, уверенность в себе, отсутствие боязни отказа, готовность к постоянным телефонным звонкам;
+• Активность, энергичность, целеустремленность, системный подход.
+Условия:
+• Заработная плата: оклад 55 000 на руки+ % от продаж;
+• Совокупный доход в месяц от 80 000 руб.;
+• Официальное оформление по ТК РФ с первого дня работы;
+• График работы - 5/2 с 9.00-18.00 ч.;
+• Сотрудникам компании предоставляется:- возможность посещать тренинги и семинары ведущих российских и мировых спикеров за счет компании;
+• возможность обучения в собственной Автошколе компании и посещение спортивного клуба с солидной корпоративной скидкой;
+• Работа в офисе: станция метро Сокол (пешая доступность).
+employer: Образовательный холдинг СИНЕРГИЯ
+api: SuperJob
+----------
+name: Руководитель группы прикладной разработки (техлид)
+area_name: Москва
+url: https://www.superjob.ru/vakansii/rukovoditel-gruppy-prikladnoj-razrabotki-46199522.html
+salary_from: 0
+salary_to: 260000
+salary_cur: RUR
+requirement: Планируем расширять штат и вводить новые должности 
+
+Обязанности:
+• Определение оптимальных технологий для реализации текущих задач;
+• Разработка архитектуры прикладных информационных систем;
+• Написание программного кода на языках Java и Kotlin с использованием лучших практик и актуальных фреймворков;
+• Координация процесса разработки в части написания программного кода и отладки, доведение принятых принципов и архитектурных решений до других программистов (включая подрядчиков), а также проведение код-ревью;
+• Оформление технической документации по программным решениям. 
+Требования:
+• Высшее техническое образование;
+• Не менее 5 лет в сфере разработки программного обеспечения;
+• Уверенное знание Java 17+ и Kotlin 1.7, владение фреймворком Spring 5 и 6 версии (включая его экосистему – Spring Boot, Security, JPA и т.п.);
+• Уверенное знание SQL (преимущественно PostgreSQL) и способов использования баз данных в экосистеме Java – JDBC, Hibernate;
+• Понимание принципов микросервисной архитектуры, опыт внедрения и использования средств мессаджинга (Apache Kafka);
+• Уверенное знание средств разработки (IntelliJ IDEA, GitLab) и опыт работы с ПО для организации процесса разработки (Jira, Confluence);
+• Коммуникабельность (умение четко формулировать мысли, доносить их до подчиненных и решать возникающие недопонимания).
+• Будет преимуществом:
+• Опыт работы с JavaScript/TypeScript, в частности, с фронтенд-фреймворком Vue3;
+• Наличие собственной лицензии на IntelliJ IDEA;
+• Опыт работы с шаблонизатором Thymeleaf;
+• Опыт работы с Groovy;
+• Опыт работы в руководящих должностях в сфере IT.
+Условия:
+• Оформление по ТК РФ, заработная плата полностью «белая» и выплачивается в срок;
+• Оборудованное рабочее место в главном здании Университета у ст.м. «Тропарево», «Юго-Западная», «Коньково»;
+• Очная форма работы с обсуждаемым графиком и присутствием;
+• Бронирование от призыва в порядке, установленном законодательством.
+responsibility: Планируем расширять штат и вводить новые должности 
+
+Обязанности:
+• Определение оптимальных технологий для реализации текущих задач;
+• Разработка архитектуры прикладных информационных систем;
+• Написание программного кода на языках Java и Kotlin с использованием лучших практик и актуальных фреймворков;
+• Координация процесса разработки в части написания программного кода и отладки, доведение принятых принципов и архитектурных решений до других программистов (включая подрядчиков), а также проведение код-ревью;
+• Оформление технической документации по программным решениям. 
+Требования:
+• Высшее техническое образование;
+• Не менее 5 лет в сфере разработки программного обеспечения;
+• Уверенное знание Java 17+ и Kotlin 1.7, владение фреймворком Spring 5 и 6 версии (включая его экосистему – Spring Boot, Security, JPA и т.п.);
+• Уверенное знание SQL (преимущественно PostgreSQL) и способов использования баз данных в экосистеме Java – JDBC, Hibernate;
+• Понимание принципов микросервисной архитектуры, опыт внедрения и использования средств мессаджинга (Apache Kafka);
+• Уверенное знание средств разработки (IntelliJ IDEA, GitLab) и опыт работы с ПО для организации процесса разработки (Jira, Confluence);
+• Коммуникабельность (умение четко формулировать мысли, доносить их до подчиненных и решать возникающие недопонимания).
+• Будет преимуществом:
+• Опыт работы с JavaScript/TypeScript, в частности, с фронтенд-фреймворком Vue3;
+• Наличие собственной лицензии на IntelliJ IDEA;
+• Опыт работы с шаблонизатором Thymeleaf;
+• Опыт работы с Groovy;
+• Опыт работы в руководящих должностях в сфере IT.
+Условия:
+• Оформление по ТК РФ, заработная плата полностью «белая» и выплачивается в срок;
+• Оборудованное рабочее место в главном здании Университета у ст.м. «Тропарево», «Юго-Западная», «Коньково»;
+• Очная форма работы с обсуждаемым графиком и присутствием;
+• Бронирование от призыва в порядке, установленном законодательством.
+employer: ФГАОУ ВО РНИМУ им. Н. И. Пирогова Минздрава России
+api: SuperJob
+----------
+name: Преподаватель информатики (колледж)
+area_name: Санкт-Петербург
+url: https://spb.superjob.ru/vakansii/prepodavatel-informatiki-46400841.html
+salary_from: 60000
+salary_to: 90000
+salary_cur: RUR
+requirement: Обязанности:
+• Преподавание учебных дисциплин;
+• Организация учебной деятельности обучающихся по освоению учебных дисциплин;
+• Педагогический контроль и оценка освоения образовательной программы в процессе промежуточной и итоговой аттестации;
+• Разработка программно-методического обеспечения учебных дисциплин
+• Обучение студентов специальности 09.02.07 — Информационные системы и программирование
+Требования:
+• Высшее профильное образование
+• опыт работы от 1 года
+• Программирования на языке Java
+Условия:
+• работа по расписанию, ежегодный оплачиваемый отпуск 56 дней
+responsibility: Обязанности:
+• Преподавание учебных дисциплин;
+• Организация учебной деятельности обучающихся по освоению учебных дисциплин;
+• Педагогический контроль и оценка освоения образовательной программы в процессе промежуточной и итоговой аттестации;
+• Разработка программно-методического обеспечения учебных дисциплин
+• Обучение студентов специальности 09.02.07 — Информационные системы и программирование
+Требования:
+• Высшее профильное образование
+• опыт работы от 1 года
+• Программирования на языке Java
+Условия:
+• работа по расписанию, ежегодный оплачиваемый отпуск 56 дней
+employer: Академия транспортных технологий
+api: SuperJob
+----------
+name: Преподаватель по программированию
+area_name: Москва
+url: https://www.superjob.ru/vakansii/prepodavatel-po-programmirovaniyu-47136315.html
+salary_from: 0
+salary_to: 0
+salary_cur: RUR
+requirement: Мы с тобой сработаемся, если ты:
+• В том числе студент (3 курс и старше), аспирант или выпускник технического или педагогического вуза
+• Знаешь язык программирования или есть желание обучиться
+• Опыт преподавания в группах от 6 месяцев
+• Умеешь объяснять сложные вещи простыми словами
+• Хочешь развиваться и повышать свою квалификацию
+Что нужно делать?
+• Проводить занятия по программированию для детей
+• Отслеживать результаты обучения
+• Консультировать родителей по вопросам успеваемости детей
+• Продавать курсы на открытом уроке
+• Поддерживать в школе позитивную атмосферу
+• Спустя полноценный учебный год наши юные ученики получают дипломы об окончании курса, и ты будешь участвовать в организации масштабного мероприятия
+Наши условия:
+• Сменный график в развивающейся школе под узнаваемым брендом
+• Бесплатное обучение для успешных кандидатов
+• Обеспечение методическими материалами
+• Конкурентная заработная плата
+• Возможность развиваться и получать новые навыки
+• Атмосфера и команда школы – корпоративная культура отдыха, пицца и отличное настроение: )
+responsibility: Мы с тобой сработаемся, если ты:
+• В том числе студент (3 курс и старше), аспирант или выпускник технического или педагогического вуза
+• Знаешь язык программирования или есть желание обучиться
+• Опыт преподавания в группах от 6 месяцев
+• Умеешь объяснять сложные вещи простыми словами
+• Хочешь развиваться и повышать свою квалификацию
+Что нужно делать?
+• Проводить занятия по программированию для детей
+• Отслеживать результаты обучения
+• Консультировать родителей по вопросам успеваемости детей
+• Продавать курсы на открытом уроке
+• Поддерживать в школе позитивную атмосферу
+• Спустя полноценный учебный год наши юные ученики получают дипломы об окончании курса, и ты будешь участвовать в организации масштабного мероприятия
+Наши условия:
+• Сменный график в развивающейся школе под узнаваемым брендом
+• Бесплатное обучение для успешных кандидатов
+• Обеспечение методическими материалами
+• Конкурентная заработная плата
+• Возможность развиваться и получать новые навыки
+• Атмосфера и команда школы – корпоративная культура отдыха, пицца и отличное настроение: )
+employer: UCHi.RU
+api: SuperJob
