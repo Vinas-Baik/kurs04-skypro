@@ -14,9 +14,11 @@ class Vacancys(ABC):
     """
     Класс с абстрактными методами get_request и get_formatted_vacancies
     """
+
     @abstractmethod
     def get_request(self):
         pass
+
 
     @abstractmethod
     def get_formatted_vacancies(self):
@@ -44,9 +46,11 @@ class Work_Vacancy():
         self.params = None
         self.url_api = ''
 
+
     @property
     def keyword(self):
         return self.__keyword__
+
 
     @keyword.setter
     def keyword(self, new_key):
@@ -78,6 +82,7 @@ class Work_Vacancy():
                 text = text.replace(i, '')
             return text
 
+
     def save_json_file(self):
         """
         метод класса для записи в файл json, прописанный в переменной класса file_json
@@ -88,8 +93,10 @@ class Work_Vacancy():
             json.dump(self.vacancies, file, indent=4, ensure_ascii=False)
         # pass
 
+
     def get_request(self):
         pass
+
 
     def get_vacancies(self, pages_count=1):
         """
@@ -113,6 +120,7 @@ class Work_Vacancy():
             if len(page_vac) == 0:
                 break
 
+
     def save_csv_file(self, file_name, is_csv=True):
         """
         Запись в файл csv и txt
@@ -123,6 +131,7 @@ class Work_Vacancy():
 
         csv_col = []
         t_csv_vac = {}
+
 
         def get_col_key(key, value:dict):
             """
@@ -136,6 +145,7 @@ class Work_Vacancy():
                     csv_col.append(key + '|' + k)
                 else:
                     get_col_key(key + '|' + k, v)
+
 
         def set_key_vac(key, value:dict):
             """
@@ -155,7 +165,6 @@ class Work_Vacancy():
             return
 
         if is_csv:
-
             # собираем список колонок для записей в csv
 
             csv_col = []
@@ -165,8 +174,6 @@ class Work_Vacancy():
                     csv_col.append(key)
                 else:
                     get_col_key(key, value)
-
-
 
         # собираем список вакансий
         csv_vacancies = []
@@ -183,8 +190,6 @@ class Work_Vacancy():
         # пишем в csv файл
 
         if is_csv:
-
-
             # пишем в CSV файл
 
             with open(full_path_name_file(file_name), 'w',
@@ -192,9 +197,7 @@ class Work_Vacancy():
                 wr = csv.DictWriter(file, delimiter=";", fieldnames=csv_col)
                 wr.writeheader()
                 wr.writerows(csv_vacancies)
-
         else:
-
             # пишем в TXT файл
 
             with open(full_path_name_file(file_name), 'w',
@@ -255,12 +258,14 @@ class Formatted_Vacancies(Work_Vacancy):
         super().__init__(self, keyword)
         self.vacancies = []
 
+
     def add_vacancy(self, vacancy: Vacancy):
         """
         Добавить новую вакансию
         :return:
         """
         self.vacancies.append(vacancy.json_item)
+
 
     def get_vacancies_by_salary(self, salary: str):
         """
@@ -344,6 +349,7 @@ class Formatted_Vacancies(Work_Vacancy):
 
             print(' ---------------- ')
 
+
     def sort_vacancies(self):
         """
         Отсортировать вакансии по зарплате от минимальной к максимальной
@@ -375,6 +381,7 @@ class Formatted_Vacancies(Work_Vacancy):
             if count_top == 0:
                 break
 
+
 class HeadHunterAPI(Vacancys, Work_Vacancy):
 
     url = 'https://api.hh.ru/vacancies'
@@ -397,6 +404,7 @@ class HeadHunterAPI(Vacancys, Work_Vacancy):
 
         # self.vacancies = []
 
+
     def get_request(self):
         """
         Грузим данные с сайта hh.ru
@@ -408,6 +416,7 @@ class HeadHunterAPI(Vacancys, Work_Vacancy):
         # data = response.content.decode()
         # response.close()
         return response.json()['items']
+
 
     def get_formatted_vacancies(self):
         """
