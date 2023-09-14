@@ -35,7 +35,6 @@ def user_menu(keyword_find, count_vac) -> str:
     return user_input
 
 def main():
-    # get_exchange_rates()
 
     keyword_find = 'python'
 

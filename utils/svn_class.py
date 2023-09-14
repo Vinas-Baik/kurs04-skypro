@@ -10,29 +10,6 @@ from utils.svn_utils import full_path_name_file
 API_SJ_KEY = 'v3.r.133561358.458aaf582a8dbe18b8cad038cb823741f7e0691a.a799f49596fb6a882aade1f69f46fd2fd5d76707'
 
 
-# def get_exchange_rates():
-#
-#     url = "https://api.apilayer.com/exchangerates_data/latest?symbols=&base=RUB"
-#
-#     response = requests.request("GET", url, headers={"apikey": API_KEY}, data={})
-#
-#     response_data = json.loads(response.text)
-#
-#     if response.status_code == 200:
-#
-#         with open(full_path_name_file('data\\ex_rub.json'), 'w',
-#                   encoding='UTF-8') as file:
-#             json.dump(response_data, file, indent=4, ensure_ascii=False)
-#
-#     else:
-#
-#         with open(full_path_name_file('data\\ex_rub.json'), 'r',
-#                   encoding='UTF-8') as file:
-#             response_data = json.load(file)
-#
-#     return response_data['rates']
-
-
 class Vacancys(ABC):
     """
     Класс с абстрактными методами get_request и get_formatted_vacancies
@@ -96,9 +73,6 @@ class Work_Vacancy():
         if text == None:
             return ''
         else:
-            # if text.count('\u2070') != 0:
-            #     st_1 = 1
-            #     pass
 
             for i in ['\u200e', '\u2070']:
                 text = text.replace(i, '')
@@ -141,7 +115,7 @@ class Work_Vacancy():
 
     def save_csv_file(self, file_name, is_csv=True):
         """
-        Запись ф файл csv и txt
+        Запись в файл csv и txt
         :param file_name: имя файла
         :param is_csv: если True - то пишем в csv, если False - то пишем в txt
         :return:
@@ -151,6 +125,12 @@ class Work_Vacancy():
         t_csv_vac = {}
 
         def get_col_key(key, value:dict):
+            """
+            Преобразуем записи JSON списка в колонки csv файла
+            :param key:
+            :param value:
+            :return:
+            """
             for k, v in value.items():
                 if not isinstance(v, dict):
                     csv_col.append(key + '|' + k)
@@ -158,6 +138,12 @@ class Work_Vacancy():
                     get_col_key(key + '|' + k, v)
 
         def set_key_vac(key, value:dict):
+            """
+            Преобразуем ключи JSON списка в наименование колонок csv файла
+            :param key:
+            :param value:
+            :return:
+            """
             for k, v in value.items():
                 if not isinstance(v, dict):
                     t_csv_vac[key + '|' + k] = v
@@ -199,7 +185,7 @@ class Work_Vacancy():
         if is_csv:
 
 
-            # пишем в файл
+            # пишем в CSV файл
 
             with open(full_path_name_file(file_name), 'w',
                       encoding='UTF-8') as file:
@@ -209,7 +195,7 @@ class Work_Vacancy():
 
         else:
 
-            # пишем в файл
+            # пишем в TXT файл
 
             with open(full_path_name_file(file_name), 'w',
                       encoding='UTF-8') as file:
@@ -394,6 +380,11 @@ class HeadHunterAPI(Vacancys, Work_Vacancy):
     url = 'https://api.hh.ru/vacancies'
 
     def __init__(self, keyword, count_vac_per_page=100):
+        """
+        Инициализация класса для загрузки с HH.ru
+        :param keyword: слово для поиска
+        :param count_vac_per_page: количество вакансий на странице
+        """
         super().__init__(keyword, 'vac_hh')
         self.params = {'text': self.__keyword__,
                        'page': None,
@@ -407,6 +398,10 @@ class HeadHunterAPI(Vacancys, Work_Vacancy):
         # self.vacancies = []
 
     def get_request(self):
+        """
+        Грузим данные с сайта hh.ru
+        :return:
+        """
         response = requests.get(self.url, headers=self.headers, params=self.params)
         if response.status_code != 200:
             raise Exception(f'Ошибка получения вакансий! Статус ошибки: {response.status_code}')
@@ -415,6 +410,10 @@ class HeadHunterAPI(Vacancys, Work_Vacancy):
         return response.json()['items']
 
     def get_formatted_vacancies(self):
+        """
+        переводим загруженные вакансии c hh-ru в единый вид списка вакансий
+        :return:
+        """
         formatted_vacancies = []
         for temp_vac in self.vacancies:
             if temp_vac['salary'] != None:
@@ -459,7 +458,12 @@ class SuperJobAPI(Vacancys, Work_Vacancy):
         self.headers = {'X-Api-App-id': API_SJ_KEY}
         self.url_api = 'SuperJob.ru'
 
+
     def get_request(self):
+        """
+        грузим ваканчии с суперджоб.ру
+        :return:
+        """
         response = requests.get(self.url, headers=self.headers, params=self.params)
         if response.status_code != 200:
             raise Exception(f'Ошибка получения вакансий! Статус ошибки: {response.status_code}')
@@ -467,7 +471,13 @@ class SuperJobAPI(Vacancys, Work_Vacancy):
         # response.close()
         return response.json()['objects']
 
+
     def get_formatted_vacancies(self):
+        """
+        переводим загруженные вакансии c superjob.ru в единый вид списка вакансий
+
+        :return:
+        """
         formatted_vacancies = []
 
         for temp_vac in self.vacancies:
